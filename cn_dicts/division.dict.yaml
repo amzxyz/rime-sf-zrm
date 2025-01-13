@@ -81,7 +81,6 @@ sort: by_weight
 班戈	bān;ww gē;ad	452
 班玛	bān;ww mǎ;wm	458
 板桥	bǎn;ly qiáo;lq	644
-蚌山	bàng;if shān;aa	252
 宝安	bǎo;gy ān;gn	656
 保德	bǎo;rl dé;rx	533
 宝坻	bǎo;gy dǐ;td	577
@@ -102,6 +101,7 @@ sort: by_weight
 褒忠	bāo;wh zhōng;vx	428
 北安	běi;ab ān;gn	542
 北碚	běi;ab bèi;uk	538
+北埔	běi;ab bù;tf	458
 北辰	běi;ab chén;ih	603
 北川	běi;ab chuān;pa	570
 北斗	běi;ab dǒu;du	683
@@ -117,7 +117,6 @@ sort: by_weight
 北门	běi;ab mén;dv	655
 卑南	bēi;pu nán;uu	527
 北票	běi;ab piào;xx	436
-北埔	běi;ab pǔ;tf	458
 北区	běi;ab qū;kx	710
 北塔	běi;ab tǎ;tk	467
 北投	běi;ab tóu;fy	565
@@ -125,6 +124,7 @@ sort: by_weight
 北镇	běi;ab zhèn;jb	514
 本溪	běn;aa xī;dd	599
 蚌埠	bèng;if bù;tu	624
+蚌山	bèng;if shān;aa	252
 碧江	bì;wk jiāng;dg	436
 毕节	bì;bu jié;ce	562
 比如	bǐ;bb rú;nk	980
@@ -156,7 +156,10 @@ sort: by_weight
 亳州	bó;wq zhōu;da	572
 播州	bò;ft zhōu;da	479
 布袋	bù;aj dài;rh	637
+埔里	bù;tf lǐ;aa	543
 布拖	bù;aj tuō;fy	340
+埔心	bù;tf xīn;dd	462
+埔盐	bù;tf yán;tm	412
 蔡甸	cài;cx diān;pt	485
 苍南	cāng;cv nán;uu	545
 仓山	cāng;rv shān;aa	556
@@ -182,7 +185,7 @@ sort: by_weight
 长滨	cháng;pn bīn;db	492
 长春	cháng;pn chūn;ao	785
 常德	cháng;ej dé;rx	633
-昌都	chāng;oo dōu;ue	537
+昌都	chāng;oo dū;ue	537
 长丰	cháng;pn fēng;aa	535
 长海	cháng;pn hǎi;dm	548
 昌吉	chāng;oo jí;uk	547
@@ -341,13 +344,12 @@ sort: by_weight
 郸城	dān;ee chéng;tg	451
 丹东	dān;pa dōng;ad	613
 丹凤	dān;pa fèng;jy	545
-丹棱	dān;pa léng;lw	411
+丹棱	dān;pa líng;lw	411
 淡水	dàn;dh shuǐ;vn	723
 丹徒	dān;pa tú;rr	475
 丹阳	dān;pa yáng;eo	599
 丹寨	dān;pa zhài;gx	427
 儋州	dān;rk zhōu;da	552
-宕昌	dàng;gk chāng;oo	417
 砀山	dàng;up shān;aa	507
 当涂	dāng;ea tú;dx	481
 当雄	dāng;ea xióng;aa	437
@@ -438,15 +440,15 @@ sort: by_weight
 东源	dōng;ad yuán;dx	501
 东至	dōng;ad zhì;at	622
 东洲	dōng;ad zhōu;dv	456
-都安	dōu;ue ān;gn	553
-都昌	dōu;ue chāng;oo	469
-都兰	dōu;ue lán;es	467
 斗六	dòu;du liù;wb	544
 斗门	dǒu;du mén;dv	566
 斗南	dòu;du nán;uu	499
-都匀	dōu;ue yún;pd	502
+都安	dū;ue ān;gn	553
+都昌	dū;ue chāng;oo	469
 杜集	dù;lt jí;rl	343
+都兰	dū;ue lán;es	467
 独山	dú;qi shān;aa	534
+都匀	dū;ue yún;pd	502
 端州	duān;le zhōu;da	445
 堆龙	duī;ta lóng;ab	206
 敦化	dūn;ww huà;rb	516
@@ -472,8 +474,8 @@ sort: by_weight
 繁昌	fán;mx chāng;oo	438
 樊城	fán;ld chéng;tg	493
 番路	fān;pt lù;zk	424
+繁峙	fán;mx shì;sc	438
 范县	fàn;cv xiàn;qv	534
-繁峙	fán;mx zhì;sc	438
 防城	fáng;ef chéng;tg	552
 方城	fāng;wp chéng;tg	509
 枋寮	fāng;lf liáo;gx	475
@@ -496,7 +498,7 @@ sort: by_weight
 丰滨	fēng;aa bīn;db	389
 凤城	fèng;jy chéng;tg	546
 丰城	fēng;aa chéng;tg	518
-丰都	fēng;aa dōu;ue	509
+丰都	fēng;aa dū;ue	509
 凤冈	fèng;jy gāng;ax	415
 奉化	fèng;aa huà;rb	565
 凤凰	fèng;jy huáng;jw	789
@@ -524,6 +526,8 @@ sort: by_weight
 丰原	fēng;aa yuán;ix	565
 丰泽	fēng;aa zé;da	527
 丰镇	fēng;aa zhèn;jb	505
+佛冈	fó;rf gāng;ax	444
+佛坪	fó;rf píng;tu	434
 佛山	fó;rf shān;aa	763
 福安	fú;pt ān;gn	562
 阜城	fù;pu chéng;tg	446
@@ -531,7 +535,6 @@ sort: by_weight
 富川	fù;gt chuān;pa	478
 福鼎	fú;pt dǐng;mv	546
 扶风	fú;ff fēng;jx	525
-佛冈	fú;rf gāng;ax	444
 福贡	fú;pt gòng;gr	372
 扶沟	fú;ff gōu;dv	424
 府谷	fǔ;gc gǔ;bk	493
@@ -550,7 +553,6 @@ sort: by_weight
 富宁	fù;gt níng;gd	440
 富平	fù;gt píng;au	511
 阜平	fù;pu píng;au	469
-佛坪	fú;rf píng;tu	434
 福清	fú;pt qīng;do	611
 福泉	fú;pt quán;bu	484
 芙蓉	fú;cf róng;ck	693
@@ -575,7 +577,6 @@ sort: by_weight
 福州	fú;pt zhōu;da	793
 抚州	fǔ;fw zhōu;da	579
 噶尔	gá;kg ěr;ex	588
-伽师	gā;rk shī;aj	458
 改则	gǎi;jw zé;bd	377
 盖州	gài;em zhōu;da	427
 甘德	gān;aa dé;rx	428
@@ -711,6 +712,7 @@ sort: by_weight
 贵州	guì;vr zhōu;da	811
 果洛	guǒ;an luò;dk	494
 国姓	guó;wy xìng;nu	489
+涡阳	guō;dn yáng;eo	458
 哈密	hā;kk mì;gs	672
 海安	hǎi;dm ān;gn	529
 海北	hǎi;dm běi;ab	573
@@ -808,7 +810,6 @@ sort: by_weight
 衡阳	héng;rd yáng;eo	646
 横州	héng;lb zhōu;da	363
 红安	hóng;sg ān;gn	494
-洪洞	hóng;db dòng;dk	517
 红岗	hóng;sg gǎng;sx	326
 红古	hóng;sg gǔ;uk	415
 红河	hóng;sg hé;dk	596
@@ -820,6 +821,7 @@ sort: by_weight
 红山	hóng;sg shān;aa	586
 洪山	hóng;db shān;aa	575
 红塔	hóng;sg tǎ;tk	518
+洪洞	hóng;db tóng;dk	517
 宏伟	hóng;gv wěi;rw	670
 洪雅	hóng;db yǎ;ya	465
 红原	hóng;sg yuán;ix	501
@@ -910,7 +912,6 @@ sort: by_weight
 会昌	huì;rv chāng;oo	511
 惠城	huì;ax chéng;tg	506
 汇川	huì;dk chuān;pa	495
-珲春	huī;wi chūn;ao	526
 惠东	huì;ax dōng;ad	534
 会东	huì;rv dōng;ad	396
 惠济	huì;ax jì;dq	492
@@ -930,6 +931,7 @@ sort: by_weight
 会泽	huì;rv zé;da	472
 惠州	huì;ax zhōu;da	701
 徽州	huī;rw zhōu;da	620
+珲春	hún;wi chūn;ao	526
 浑江	hún;di jiāng;dg	366
 浑南	hún;di nán;uu	545
 浑源	hún;di yuán;dx	437
@@ -967,7 +969,6 @@ sort: by_weight
 蓟州	jì;cd zhōu;da	502
 加查	jiā;lk chá;ld	414
 嘉定	jiā;uk dìng;gr	648
-茄萣	jiā;ck dìng;cr	1
 佳冬	jiā;rt dōng;wd	406
 嘉禾	jiā;uk hé;qn	583
 夹江	jiā;an jiāng;dg	467
@@ -975,6 +976,7 @@ sort: by_weight
 嘉黎	jiā;uk lí;hu	344
 嘉陵	jiā;uk líng;ew	585
 嘉善	jiā;uk shàn;ek	534
+伽师	jiā;rk shī;aj	458
 贾汪	jiǎ;xr wāng;dw	418
 佳县	jiā;rt xiàn;qv	431
 郏县	jiá;je xiàn;qv	426
@@ -1137,8 +1139,8 @@ sort: by_weight
 莒县	jǔ;ck xiàn;qv	483
 巨野	jù;ka yě;ly	476
 鄄城	juàn;xe chéng;tg	446
+筠连	jūn;vd lián;zi	442
 君山	jūn;yk shān;aa	527
-浚县	jùn;dw xiàn;qv	433
 卡若	kǎ;ub ruò;ck	388
 喀什	kā;kk shí;ru	646
 开封	kāi;aa fēng;tc	705
@@ -1259,7 +1261,7 @@ sort: by_weight
 利州	lì;hd zhōu;da	451
 连城	lián;zi chéng;tg	608
 莲池	lián;ci chí;dy	499
-莲都	lián;ci dōu;ue	447
+莲都	lián;ci dū;ue	447
 莲湖	lián;ci hú;do	526
 莲花	lián;ci huā;cb	729
 连江	lián;zi jiāng;dg	608
@@ -1399,10 +1401,10 @@ sort: by_weight
 龙潭	lóng;ab tán;du	637
 龙亭	lóng;ab tíng;wd	448
 龙湾	lóng;ab wān;dg	659
-龙圩	lóng;ab wéi;ty	1
 龙文	lóng;ab wén;wx	539
 陇西	lǒng;eb xī;aa	556
 陇县	lǒng;eb xiàn;qv	457
+龙圩	lóng;ab xū;ty	1
 龙岩	lóng;ab yán;sk	613
 隆阳	lóng;eu yáng;eo	408
 隆尧	lóng;eu yáo;ge	419
@@ -1459,6 +1461,7 @@ sort: by_weight
 滦南	luán;dl nán;uu	383
 滦平	luán;dl píng;au	509
 滦州	luán;dl zhōu;da	431
+略阳	lue;tk yáng;eo	447
 仑背	lún;rb bèi;bo	423
 轮台	lún;ib tái;vk	458
 萝北	luó;cx běi;ab	377
@@ -1486,7 +1489,6 @@ sort: by_weight
 绿岛	lǜ;su dǎo;ps	547
 吕梁	lǚ;kk liáng;dl	602
 绿园	lǜ;su yuán;we	511
-略阳	lüè;tk yáng;eo	447
 马边	mǎ;va biān;zl	403
 麻城	má;gl chéng;tg	530
 马村	mǎ;va cūn;lc	512
@@ -1554,13 +1556,13 @@ sort: by_weight
 绵竹	mián;sj zhú;pd	494
 苗栗	miáo;ct lì;xl	624
 民丰	mín;vv fēng;aa	442
+闵行	mǐn;mx háng;rd	625
 民和	mín;vv hé;hk	557
 闽侯	mǐn;mi hòu;rd	574
 民勤	mín;vv qín;cl	433
 闽清	mǐn;mi qīng;do	524
 民权	mín;vv quán;ly	635
 岷县	mín;sm xiàn;qv	473
-闵行	mǐn;mx xíng;rd	625
 民雄	mín;vv xióng;aa	474
 民乐	mín;vv yuè;pd	589
 明光	míng;oo guāng;ee	526
@@ -1578,8 +1580,8 @@ sort: by_weight
 牡丹	mǔ;nt dān;pa	725
 木兰	mù;un lán;es	649
 木垒	mù;un lěi;vt	423
-穆棱	mù;hp léng;lw	406
 木里	mù;un lǐ;aa	464
+穆棱	mù;hp líng;lw	406
 牟平	mù;vn píng;au	472
 牧野	mù;nw yě;ly	537
 那坡	nà;ve pō;ty	384
@@ -1643,11 +1645,11 @@ sort: by_weight
 楠梓	nán;lu zǐ;lu	503
 囊谦	náng;ah qiān;yj	417
 讷河	nè;yn hé;dk	551
+内埔	nèi;ad bù;tf	471
 内湖	nèi;ad hú;do	551
 内黄	nèi;ad huáng;cb	451
 内江	nèi;ad jiāng;dg	582
 内门	nèi;ad mén;dv	465
-内埔	nèi;ad pǔ;tf	471
 内丘	nèi;ad qiū;pa	410
 内乡	nèi;ad xiāng;vp	499
 嫩江	nèn;nw jiāng;dg	497
@@ -1659,7 +1661,7 @@ sort: by_weight
 宁波	níng;gd bō;dy	793
 宁城	níng;gd chéng;tg	477
 宁德	níng;gd dé;rx	615
-宁都	níng;gd dōu;ue	499
+宁都	níng;gd dū;ue	499
 宁洱	níng;gd ěr;de	366
 宁国	níng;gd guó;wy	545
 宁海	níng;gd hǎi;dm	597
@@ -1703,11 +1705,12 @@ sort: by_weight
 彭阳	péng;up yáng;eo	409
 彭泽	péng;up zé;da	476
 彭州	péng;up zhōu;da	534
-郫都	pí;be dōu;ue	1
+郫都	pí;be dū;ue	1
 皮山	pí;vy shān;aa	409
 埤头	pí;tu tóu;dd	457
 邳州	pī;be zhōu;da	512
 偏关	piān;rc guān;et	378
+朴子	piáo;lb zǐ;va	509
 平安	píng;au ān;gn	820
 平坝	píng;au bà;tr	449
 屏边	píng;uk biān;zl	391
@@ -1767,15 +1770,11 @@ sort: by_weight
 蒲江	pú;cf jiāng;dg	486
 浦口	pǔ;df kǒu;aa	568
 普兰	pǔ;eo lán;es	614
-埔里	pǔ;tf lǐ;aa	543
 普宁	pǔ;eo níng;gd	566
 莆田	pú;cf tián;wu	688
 普陀	pǔ;eo tuó;eb	646
 蒲县	pú;cf xiàn;qv	384
-埔心	pǔ;tf xīn;dd	462
-埔盐	pǔ;tf yán;tm	412
 濮阳	pú;dn yáng;eo	614
-朴子	pǔ;lb zǐ;va	509
 淇滨	qí;db bīn;db	370
 蕲春	qí;cj chūn;ao	477
 启东	qǐ;hk dōng;ad	518
@@ -1821,13 +1820,15 @@ sort: by_weight
 硚口	qiáo;uq kǒu;aa	483
 桥头	qiáo;lq tóu;dd	644
 桥西	qiáo;lq xī;aa	563
+茄萣	qié;ck dìng;cr	1
 且末	qiě;aa mò;an	425
 秦安	qín;ah ān;gn	455
 钦北	qīn;jr běi;ab	359
-秦都	qín;ah dōu;ue	407
+秦都	qín;ah dū;ue	407
 秦淮	qín;ah huái;da	616
 钦南	qīn;jr nán;uu	306
 沁水	qìn;dx shuǐ;vn	458
+覃塘	qín;xu táng;tk	323
 沁县	qìn;dx xiàn;qv	429
 沁阳	qìn;dx yáng;eo	482
 沁源	qìn;dx yuán;dx	460
@@ -1869,7 +1870,6 @@ sort: by_weight
 琼海	qióng;wx hǎi;dm	552
 琼结	qióng;wx jié;sk	285
 邛崃	qióng;ge lái;sl	531
-芎林	qiōng;cg lín;ll	1
 琼山	qióng;wx shān;aa	502
 琼中	qióng;wx zhōng;aa	474
 丘北	qiū;pa běi;ab	412
@@ -1990,7 +1990,7 @@ sort: by_weight
 商城	shāng;wk chéng;tg	769
 上城	shàng;aa chéng;tg	533
 上党	shàng;aa dǎng;ee	527
-商都	shāng;wk dōu;ue	546
+商都	shāng;wk dū;ue	546
 上高	shàng;aa gāo;wk	658
 上海	shàng;aa hǎi;dm	975
 上杭	shàng;aa háng;lj	505
@@ -2011,6 +2011,7 @@ sort: by_weight
 商州	shāng;wk zhōu;da	476
 邵东	shào;de dōng;ad	478
 韶关	sháo;lk guān;et	615
+召陵	shào;dk líng;ew	384
 韶山	sháo;lk shān;aa	573
 邵武	shào;de wǔ;vg	496
 绍兴	shào;sk xīng;eb	707
@@ -2022,7 +2023,6 @@ sort: by_weight
 涉县	shè;db xiàn;qv	482
 射阳	shè;uc yáng;eo	468
 神池	shén;pu chí;dy	427
-什邡	shén;ru fāng;fe	481
 神冈	shén;pu gāng;ax	481
 伸港	shēn;ru gǎng;dv	370
 沈河	shěn;dv hé;dk	551
@@ -2042,6 +2042,7 @@ sort: by_weight
 石城	shí;ak chéng;tg	564
 施甸	shī;fy diān;pt	391
 石碇	shí;ak dìng;ur	448
+什邡	shí;ru fāng;fe	481
 石峰	shí;ak fēng;sf	485
 石冈	shí;ak gāng;ax	455
 石鼓	shí;ak gǔ;uy	540
@@ -2058,7 +2059,7 @@ sort: by_weight
 石阡	shí;ak qiān;eq	457
 石渠	shí;ak qú;dl	461
 石泉	shí;ak quán;bu	505
-石狮	shí;ak shī;qj	597
+石狮	shí;ak shí;qj	597
 石首	shí;ak shǒu;em	504
 石台	shí;ak tái;vk	482
 狮潭	shī;qj tán;du	397
@@ -2149,7 +2150,7 @@ sort: by_weight
 绥德	suí;sn dé;rx	484
 绥化	suí;sn huà;rb	510
 绥江	suí;sn jiāng;dg	366
-绥棱	suí;sn léng;lw	359
+绥棱	suí;sn líng;lw	359
 遂宁	suì;zd níng;gd	579
 睢宁	suī;ma níng;gd	484
 绥宁	suí;sn níng;gd	413
@@ -2196,8 +2197,8 @@ sort: by_weight
 台中	tái;vk zhōng;aa	752
 台州	tāi;vk zhōu;da	658
 泰州	tài;au zhōu;da	629
+宕昌	tan;gk chāng;oo	417
 郯城	tán;he chéng;tg	491
-覃塘	tán;xu táng;tk	323
 潭子	tán;du zǐ;va	469
 唐河	táng;gk hé;dk	508
 唐山	táng;gk shān;aa	718
@@ -2293,7 +2294,7 @@ sort: by_weight
 屯留	tún;av liú;pt	532
 屯溪	tún;av xī;dd	518
 托里	tuō;fq lǐ;aa	626
-外埔	wài;xb pǔ;tf	435
+外埔	wài;xb bù;tf	435
 万安	wàn;ap ān;gn	552
 宛城	wǎn;gv chéng;tg	488
 万丹	wàn;ap dān;pa	467
@@ -2313,7 +2314,7 @@ sort: by_weight
 望安	wàng;ww ān;gn	375
 旺苍	wàng;ow cāng;cv	431
 望城	wàng;ww chéng;tg	503
-望都	wàng;ww dōu;ue	1
+望都	wàng;ww dū;ue	1
 望花	wàng;ww huā;cb	411
 望江	wàng;ww jiāng;dg	559
 望奎	wàng;ww kuí;dt	421
@@ -2326,7 +2327,7 @@ sort: by_weight
 渭城	wèi;do chéng;tg	443
 潍城	wéi;dw chéng;tg	364
 卫东	wèi;ea dōng;ad	576
-魏都	wèi;hv dōu;ue	406
+魏都	wèi;hv dū;ue	406
 潍坊	wéi;dw fāng;tf	668
 威海	wēi;ng hǎi;dm	674
 卫辉	wèi;ea huī;ei	473
@@ -2363,7 +2364,6 @@ sort: by_weight
 瓮安	wèng;bw ān;gn	430
 翁源	wēng;bx yuán;dx	467
 卧龙	wò;kb lóng;ab	611
-涡阳	wō;dn yáng;eo	458
 武安	wǔ;vg ān;gn	550
 吴堡	wú;kt bǔ;rt	411
 武昌	wǔ;vg chāng;oo	697
@@ -2378,7 +2378,7 @@ sort: by_weight
 乌当	wū;pa dāng;ea	459
 无棣	wú;av dì;ll	416
 武定	wǔ;vg dìng;gr	534
-武都	wǔ;vg dōu;ue	509
+武都	wǔ;vg dū;ue	509
 五峰	wǔ;aa fēng;sf	524
 雾峰	wù;yl fēng;sf	508
 武冈	wǔ;vg gāng;ax	468
@@ -2413,8 +2413,8 @@ sort: by_weight
 乌日	wū;pa rì;wa	509
 巫山	wū;aa shān;aa	623
 武山	wǔ;vg shān;aa	486
-乌什	wū;pa shén;ru	498
 武胜	wǔ;vg shèng;ou	501
+乌什	wū;pa shí;ru	498
 乌苏	wū;pa sū;cb	571
 五台	wǔ;aa tái;vk	625
 雾台	wù;yl tái;vk	390
@@ -2509,7 +2509,7 @@ sort: by_weight
 芗城	xiāng;cx chéng;tg	453
 乡城	xiāng;vp chéng;tg	443
 湘东	xiāng;dm dōng;ad	470
-襄都	xiāng;wh dōu;ue	1
+襄都	xiāng;wh dū;ue	1
 香坊	xiāng;ho fāng;tf	521
 襄汾	xiāng;wh fén;dd	449
 祥符	xiáng;py fú;vc	504
@@ -2545,13 +2545,14 @@ sort: by_weight
 新安	xīn;lj ān;gn	636
 新北	xīn;lj běi;ab	691
 新宾	xīn;lj bīn;gb	426
+新埔	xīn;lj bù;tf	486
 新蔡	xīn;lj cài;cx	455
 新昌	xīn;lj chāng;oo	543
 新城	xīn;lj chéng;tg	767
 忻城	xīn;xj chéng;tg	392
 新店	xīn;lj diàn;gk	698
-新都	xīn;lj dōu;ue	627
-信都	xìn;rk dōu;ue	456
+新都	xīn;lj dū;ue	627
+信都	xìn;rk dū;ue	456
 新丰	xīn;lj fēng;aa	563
 信丰	xìn;rk fēng;aa	449
 忻府	xīn;xj fǔ;gc	370
@@ -2577,7 +2578,6 @@ sort: by_weight
 新宁	xīn;lj níng;gd	506
 新埤	xīn;lj pí;tu	1
 新平	xīn;lj píng;au	594
-新埔	xīn;lj pǔ;tf	486
 新邱	xīn;lj qiū;qe	1
 新荣	xīn;lj róng;cl	506
 新邵	xīn;lj shào;de	415
@@ -2625,6 +2625,7 @@ sort: by_weight
 荥阳	xíng;cu yáng;eo	571
 兴业	xīng;eb yè;aa	701
 兴义	xīng;eb yì;dx	531
+芎林	xiōng;cg lín;ll	1
 雄县	xióng;aa xiàn;qv	555
 秀峰	xiù;hn fēng;sf	518
 秀林	xiù;hn lín;ll	463
@@ -2660,6 +2661,7 @@ sort: by_weight
 循化	xún;rm huà;rb	443
 逊克	xùn;zx kè;ue	354
 寻乌	xún;vc wū;pa	442
+浚县	xùn;dw xiàn;qv	433
 浔阳	xún;iv yáng;eo	474
 旬阳	xún;po yáng;eo	447
 旬邑	xún;po yì;kb	416
@@ -2670,6 +2672,7 @@ sort: by_weight
 延安	yán;zv ān;gn	702
 延边	yán;zv biān;zl	637
 盐边	yán;tm biān;zl	422
+盐埔	yán;tm bù;tf	390
 延长	yán;zv cháng;pn	792
 燕巢	yàn;ce cháo;vg	449
 盐城	yán;tm chéng;tg	636
@@ -2689,7 +2692,6 @@ sort: by_weight
 鄢陵	yān;ve líng;ew	462
 炎陵	yán;hh líng;ew	428
 延平	yán;zv píng;au	561
-盐埔	yán;tm pǔ;tf	390
 焉耆	yān;ve qí;uo	479
 延庆	yán;zv qìng;gd	628
 铅山	yán;jk shān;aa	442
@@ -2729,7 +2731,7 @@ sort: by_weight
 扬中	yáng;fp zhōng;aa	488
 扬州	yáng;fp zhōu;da	747
 姚安	yáo;nv ān;gn	454
-尧都	yáo;ge dōu;ue	1
+尧都	yáo;ge dū;ue	1
 瑶海	yáo;wf hǎi;dm	531
 耀州	yào;ea zhōu;da	486
 叶城	yè;ku chéng;tg	467
@@ -2747,7 +2749,7 @@ sort: by_weight
 伊川	yī;ry chuān;pa	481
 宜春	yí;gq chūn;ao	584
 伊春	yī;ry chūn;ao	534
-宜都	yí;gq dōu;ue	479
+宜都	yí;gq dū;ue	479
 宜丰	yí;gq fēng;aa	437
 宜黄	yí;gq huáng;cb	436
 弋江	yì;ad jiāng;dg	386
@@ -2781,7 +2783,7 @@ sort: by_weight
 宜州	yí;gq zhōu;da	432
 义竹	yì;dx zhú;pd	1
 银川	yín;jh chuān;pa	670
-殷都	yīn;py dōu;ue	334
+殷都	yīn;py dū;ue	334
 银海	yín;jh hǎi;dm	491
 印江	yìn;pe jiāng;dg	457
 印台	yìn;pe tái;vk	415
@@ -2850,7 +2852,7 @@ sort: by_weight
 雨城	yǔ;ad chéng;tg	442
 鱼池	yú;ea chí;dy	563
 榆次	yú;ld cì;dr	512
-于都	yú;av dōu;ue	508
+于都	yú;av dū;ue	508
 鱼峰	yú;ea fēng;sf	401
 余干	yú;rx gàn;au	465
 余杭	yú;rx háng;lj	615
@@ -2927,7 +2929,6 @@ sort: by_weight
 云冈	yún;ev gāng;ax	487
 运河	yùn;zv hé;dk	733
 云和	yún;ev hé;hk	592
-筠连	yún;vd lián;zi	442
 云林	yún;ev lín;ll	631
 云龙	yún;ev lóng;ab	635
 云梦	yún;ev mèng;lx	515
@@ -2940,7 +2941,7 @@ sort: by_weight
 云阳	yún;ev yáng;eo	524
 郧阳	yún;ke yáng;eo	457
 云州	yún;ev zhōu;da	423
-杂多	zá;jx duō;xx	550
+杂多	zá;jx duǒ;xx	550
 赞皇	zàn;xr huáng;bw	446
 枣强	zǎo;ad qiáng;gi	417
 造桥	zào;zk qiáo;lq	455
@@ -2976,7 +2977,6 @@ sort: by_weight
 肇东	zhào;ha dōng;ad	432
 昭化	zhāo;ok huà;rb	437
 昭觉	zhāo;ok jué;ej	435
-召陵	zhào;dk líng;ew	384
 昭平	zhāo;ok píng;au	425
 肇庆	zhào;ha qìng;gd	615
 昭苏	zhāo;ok sū;cb	458
@@ -3021,6 +3021,7 @@ sort: by_weight
 枝江	zhī;ly jiāng;dg	475
 织金	zhī;sb jīn;ra	487
 仲巴	zhòng;rv bā;vv	368
+中埔	zhōng;aa bù;tf	448
 中方	zhōng;aa fāng;wp	731
 中和	zhōng;aa hé;hk	729
 中江	zhōng;aa jiāng;dg	544
@@ -3029,7 +3030,6 @@ sort: by_weight
 钟楼	zhōng;jv lóu;ln	646
 中牟	zhōng;aa mù;vn	514
 中宁	zhōng;aa níng;gd	470
-中埔	zhōng;aa pǔ;tf	448
 中区	zhōng;aa qū;kx	665
 中山	zhōng;aa shān;aa	813
 钟山	zhōng;jv shān;aa	566
@@ -3109,7 +3109,7 @@ sort: by_weight
 阿里山	ā;ek lǐ;aa shān;aa	567
 阿莲区	ā;ek lián;ci qū;kx	1
 阿荣旗	ā;ek róng;cl qí;fb	355
-阿图什	ā;ek tú;wd shén;ru	409
+阿图什	ā;ek tú;wd shí;ru	409
 阿瓦提	ā;ek wǎ;ad tí;fr	406
 爱辉区	ài;py huī;ei qū;kx	339
 爱民区	ài;py mín;vv qū;kx	223
@@ -3191,7 +3191,6 @@ sort: by_weight
 班戈县	bān;ww gē;ad xiàn;qv	289
 班玛县	bān;ww mǎ;wm xiàn;qv	399
 板桥区	bǎn;ly qiáo;lq qū;kx	1
-蚌山区	bàng;if shān;aa qū;kx	1
 宝安区	bǎo;gy ān;gn qū;kx	572
 保德县	bǎo;rl dé;rx xiàn;qv	345
 宝坻区	bǎo;gy dǐ;td qū;kx	480
@@ -3212,6 +3211,7 @@ sort: by_weight
 褒忠乡	bāo;wh zhōng;vx xiāng;vp	1
 北安市	běi;ab ān;gn shì;wj	368
 北碚区	běi;ab bèi;uk qū;kx	465
+北埔乡	běi;ab bù;tf xiāng;vp	1
 北辰区	běi;ab chén;ih qū;kx	495
 北戴河	běi;ab dài;bg hé;dk	582
 北斗镇	běi;ab dǒu;du zhèn;jb	1
@@ -3227,13 +3227,13 @@ sort: by_weight
 北门区	běi;ab mén;dv qū;kx	1
 卑南乡	bēi;pu nán;uu xiāng;vp	1
 北票市	běi;ab piào;xx shì;wj	357
-北埔乡	běi;ab pǔ;tf xiāng;vp	1
 北塔区	běi;ab tǎ;tk qū;kx	265
 北投区	běi;ab tóu;fy qū;kx	452
 北屯区	běi;ab tún;av qū;kx	1
 北镇市	běi;ab zhèn;jb shì;wj	1
 本溪市	běn;aa xī;dd shì;wj	479
 蚌埠市	bèng;if bù;tu shì;wj	517
+蚌山区	bèng;if shān;aa qū;kx	1
 碧江区	bì;wk jiāng;dg qū;kx	1
 毕节市	bì;bu jié;ce shì;wj	489
 比如县	bǐ;bb rú;nk xiàn;qv	280
@@ -3264,7 +3264,10 @@ sort: by_weight
 亳州市	bó;wq zhōu;da shì;wj	486
 布袋镇	bù;aj dài;rh zhèn;jb	387
 布尔津	bù;aj ěr;ex jīn;da	468
+埔里镇	bù;tf lǐ;aa zhèn;jb	422
 布拖县	bù;aj tuō;fy xiàn;qv	283
+埔心乡	bù;tf xīn;dd xiāng;vp	1
+埔盐乡	bù;tf yán;tm xiāng;vp	1
 蔡甸区	cài;cx diān;pt qū;kx	418
 苍南县	cāng;cv nán;uu xiàn;qv	488
 仓山区	cāng;rv shān;aa qū;kx	497
@@ -3325,6 +3328,7 @@ sort: by_weight
 朝天区	cháo;uo tiān;ad qū;kx	320
 朝阳区	cháo;uo yáng;eo qū;kx	687
 潮阳区	cháo;do yáng;eo qū;kx	443
+朝阳县	chao;uo yáng;eo xiàn;qv	383
 潮州市	cháo;do zhōu;da shì;wj	495
 潮州镇	cháo;do zhōu;da zhèn;jb	1
 车城乡	chē;aa chéng;tg xiāng;vp	1
@@ -3456,13 +3460,12 @@ sort: by_weight
 丹东市	dān;pa dōng;ad shì;wj	475
 丹凤县	dān;pa fèng;jy xiàn;qv	380
 丹江口	dān;pa jiāng;dg kǒu;aa	490
-丹棱县	dān;pa léng;lw xiàn;qv	345
+丹棱县	dān;pa líng;lw xiàn;qv	345
 淡水区	dàn;dh shuǐ;vn qū;kx	449
 丹徒区	dān;pa tú;rr qū;kx	374
 丹阳市	dān;pa yáng;eo shì;wj	412
 丹寨县	dān;pa zhài;gx xiàn;qv	369
 儋州市	dān;rk zhōu;da shì;wj	471
-宕昌县	dàng;gk chāng;oo xiàn;qv	356
 砀山县	dàng;up shān;aa xiàn;qv	410
 当涂县	dāng;ea tú;dx xiàn;qv	407
 当雄县	dāng;ea xióng;aa xiàn;qv	352
@@ -3561,16 +3564,16 @@ sort: by_weight
 东源县	dōng;ad yuán;dx xiàn;qv	374
 东至县	dōng;ad zhì;at xiàn;qv	354
 东洲区	dōng;ad zhōu;dv qū;kx	359
-都昌县	dōu;ue chāng;oo xiàn;qv	408
-都兰县	dōu;ue lán;es xiàn;qv	401
 斗六市	dòu;du liù;wb shì;wj	420
 斗门区	dǒu;du mén;dv qū;kx	458
 斗南镇	dòu;du nán;uu zhèn;jb	1
-都匀市	dōu;ue yún;pd shì;wj	398
+都昌县	dū;ue chāng;oo xiàn;qv	408
 杜集区	dù;lt jí;rl qū;kx	308
 都江堰	dū;ue jiāng;dg yàn;tn	614
+都兰县	dū;ue lán;es xiàn;qv	401
 独山县	dú;qi shān;aa xiàn;qv	392
 独山子	dú;qi shān;aa zǐ;va	443
+都匀市	dū;ue yún;pd shì;wj	398
 端州区	duān;le zhōu;da qū;kx	374
 敦化市	dūn;ww huà;rb shì;wj	375
 敦煌市	dūn;ww huáng;hw shì;wj	456
@@ -3582,7 +3585,7 @@ sort: by_weight
 额敏县	é;gr mǐn;mw xiàn;qv	316
 鄂州市	è;ke zhōu;da shì;wj	461
 恩平市	ēn;wx píng;au shì;wj	389
-恩施市	ēn;wx shī;fy shì;wj	440
+恩施市	ēn;wx shī;fy shī;wj	440
 恩阳区	ēn;wx yáng;eo qū;kx	1
 二道江	èr;aa dào;zm jiāng;dg	1
 二道区	èr;aa dào;zm qū;kx	430
@@ -3595,7 +3598,7 @@ sort: by_weight
 繁昌区	fán;mx chāng;oo qū;kx	1
 樊城区	fán;ld chéng;tg qū;kx	360
 番路乡	fān;pt lù;zk xiāng;vp	1
-繁峙县	fán;mx zhì;sc xiàn;qv	409
+繁峙县	fán;mx shì;sc xiàn;qv	409
 防城港	fáng;ef chéng;tg gǎng;dv	537
 防城区	fáng;ef chéng;tg qū;kx	348
 方城县	fāng;wp chéng;tg xiàn;qv	433
@@ -3617,7 +3620,7 @@ sort: by_weight
 丰滨乡	fēng;aa bīn;db xiāng;vp	1
 丰城市	fēng;aa chéng;tg shì;wj	386
 凤城市	fèng;jy chéng;tg shì;wj	358
-丰都县	fēng;aa dōu;ue xiàn;qv	425
+丰都县	fēng;aa dū;ue xiàn;qv	425
 凤冈县	fèng;jy gāng;ax xiàn;qv	342
 奉化区	fèng;aa huà;rb qū;kx	1
 凤凰县	fèng;jy huáng;jw xiàn;qv	422
@@ -3643,13 +3646,14 @@ sort: by_weight
 丰原区	fēng;aa yuán;ix qū;kx	1
 丰泽区	fēng;aa zé;da qū;kx	428
 丰镇市	fēng;aa zhèn;jb shì;wj	338
+佛冈县	fó;rf gāng;ax xiàn;qv	369
+佛坪县	fó;rf píng;tu xiàn;qv	344
 佛山市	fó;rf shān;aa shì;wj	635
 福安市	fú;pt ān;gn shì;wj	432
 涪城区	fú;dk chéng;tg qū;kx	388
 阜城县	fù;pu chéng;tg xiàn;qv	333
 福鼎市	fú;pt dǐng;mv shì;wj	441
 扶风县	fú;ff fēng;jx xiàn;qv	416
-佛冈县	fú;rf gāng;ax xiàn;qv	369
 福贡县	fú;pt gòng;gr xiàn;qv	323
 扶沟县	fú;ff gōu;dv xiàn;qv	368
 府谷县	fǔ;gc gǔ;bk xiàn;qv	455
@@ -3668,7 +3672,6 @@ sort: by_weight
 富宁县	fù;gt níng;gd xiàn;qv	366
 富平县	fù;gt píng;au xiàn;qv	419
 阜平县	fù;pu píng;au xiàn;qv	418
-佛坪县	fú;rf píng;tu xiàn;qv	344
 福清市	fú;pt qīng;do shì;wj	511
 福泉市	fú;pt quán;bu shì;wj	373
 芙蓉区	fú;cf róng;ck qū;kx	480
@@ -3693,7 +3696,6 @@ sort: by_weight
 福州市	fú;pt zhōu;da shì;wj	641
 抚州市	fǔ;fw zhōu;da shì;wj	496
 噶尔县	gá;kg ěr;ex xiàn;qv	276
-伽师县	gā;rk shī;aj xiàn;qv	324
 改则县	gǎi;jw zé;bd xiàn;qv	340
 盖州市	gài;em zhōu;da shì;wj	368
 甘德县	gān;aa dé;rx xiàn;qv	296
@@ -3826,6 +3828,7 @@ sort: by_weight
 桂阳县	guì;lt yáng;eo xiàn;qv	406
 贵州省	guì;vr zhōu;da shěng;um	700
 国姓乡	guó;wy xìng;nu xiāng;vp	1
+涡阳县	guō;dn yáng;eo xiàn;qv	412
 哈巴河	hǎ;kk bā;vv hé;dk	394
 哈尔滨	hā;kk ěr;ex bīn;db	781
 哈密市	hā;kk mì;gs shì;wj	434
@@ -3934,7 +3937,6 @@ sort: by_weight
 衡阳县	héng;rd yáng;eo xiàn;qv	406
 横州市	héng;lb zhōu;da shì;wj	1
 红安县	hóng;sg ān;gn xiàn;qv	423
-洪洞县	hóng;db dòng;dk xiàn;qv	447
 红岗区	hóng;sg gǎng;sx qū;kx	258
 红古区	hóng;sg gǔ;uk qū;kx	375
 红谷滩	hóng;sg gǔ;bk tān;dn	1
@@ -3947,8 +3949,9 @@ sort: by_weight
 红桥区	hóng;sg qiáo;lq qū;kx	484
 洪山区	hóng;db shān;aa qū;kx	501
 红山区	hóng;sg shān;aa qū;kx	451
-红寺堡	hóng;sg sì;tc bǎo;rt	374
+红寺堡	hóng;sg sì;tc bǔ;rt	374
 红塔区	hóng;sg tǎ;tk qū;kx	384
+洪洞县	hóng;db tóng;dk xiàn;qv	447
 宏伟区	hóng;gv wěi;rw qū;kx	194
 洪雅县	hóng;db yǎ;ya xiàn;qv	401
 红原县	hóng;sg yuán;ix xiàn;qv	388
@@ -4041,7 +4044,6 @@ sort: by_weight
 会昌县	huì;rv chāng;oo xiàn;qv	379
 惠城区	huì;ax chéng;tg qū;kx	480
 汇川区	huì;dk chuān;pa qū;kx	382
-珲春市	huī;wi chūn;ao shì;wj	420
 惠东县	huì;ax dōng;ad xiàn;qv	449
 会东县	huì;rv dōng;ad xiàn;qv	327
 惠济区	huì;ax jì;dq qū;kx	1
@@ -4061,6 +4063,7 @@ sort: by_weight
 徽州区	huī;rw zhōu;da qū;kx	404
 惠州市	huì;ax zhōu;da shì;wj	589
 回族区	huí;wk zú;fd qū;kx	271
+珲春市	hún;wi chūn;ao shì;wj	420
 浑江区	hún;di jiāng;dg qū;kx	1
 浑南区	hún;di nán;uu qū;kx	1
 浑源县	hún;di yuán;dx xiàn;qv	375
@@ -4102,7 +4105,6 @@ sort: by_weight
 冀州区	jì;bb zhōu;da qū;kx	1
 加查县	jiā;lk chá;ld xiàn;qv	247
 嘉定区	jiā;uk dìng;gr qū;kx	522
-茄萣区	jiā;ck dìng;cr qū;kx	1
 佳冬乡	jiā;rt dōng;wd xiāng;vp	1
 嘉禾县	jiā;uk hé;qn xiàn;qv	363
 夹江县	jiā;an jiāng;dg xiàn;qv	370
@@ -4111,6 +4113,7 @@ sort: by_weight
 嘉陵区	jiā;uk líng;ew qū;kx	393
 佳木斯	jiā;rt mù;un sī;qj	564
 嘉善县	jiā;uk shàn;ek xiàn;qv	431
+伽师县	jiā;rk shī;aj xiàn;qv	324
 贾汪区	jiǎ;xr wāng;dw qū;kx	356
 甲仙区	jiǎ;aa xiān;rs qū;kx	1
 嘉祥县	jiā;uk xiáng;py xiàn;qv	410
@@ -4272,9 +4275,10 @@ sort: by_weight
 句容市	jù;pk róng;gk shì;wj	431
 巨野县	jù;ka yě;ly xiàn;qv	408
 鄄城县	juàn;xe chéng;tg xiàn;qv	387
+筠连县	jūn;vd lián;zi xiàn;qv	384
 君山区	jūn;yk shān;aa qū;kx	332
 卡若区	kǎ;ub ruò;ck qū;kx	1
-喀什市	kā;kk shí;ru shì;wj	431
+喀什市	kā;kk shí;ru shí;wj	431
 开封市	kāi;aa fēng;tc shì;wj	545
 开福区	kāi;aa fú;pt qū;kx	500
 开化县	kāi;aa huà;rb xiàn;qv	399
@@ -4288,7 +4292,7 @@ sort: by_weight
 开远市	kāi;aa yuǎn;ze shì;wj	338
 开州区	kāi;aa zhōu;da qū;kx	1
 崁顶乡	kàn;sr dǐng;dr xiāng;vp	1
-康巴什	kāng;gl bā;vv shén;ru	1
+康巴什	kāng;gl bā;vv shí;ru	1
 康保县	kāng;gl bǎo;rl xiàn;qv	331
 康定市	kāng;gl dìng;gr shì;wj	1
 康乐县	kāng;gl lè;pd xiàn;qv	367
@@ -4310,7 +4314,7 @@ sort: by_weight
 宽城区	kuān;gj chéng;tg qū;kx	425
 奎屯市	kuí;dt tún;av shì;wj	366
 奎文区	kuí;dt wén;wx qū;kx	377
-昆都仑	kūn;ob dōu;ue lún;rb	1
+昆都仑	kūn;ob dū;ue lún;rb	1
 昆明市	kūn;ob míng;oo shì;wj	674
 昆山市	kūn;ob shān;aa shì;wj	512
 昆玉市	kūn;ob yù;wd shì;wj	260
@@ -4339,7 +4343,7 @@ sort: by_weight
 兰屿乡	lán;es yǔ;sy xiāng;vp	1
 兰州市	lán;es zhōu;da shì;wj	631
 廊坊市	láng;ge fāng;tf shì;wj	536
-浪卡子	làng;dh qiǎ;ub zi;va	335
+浪卡子	làng;dh ka;ub zi;va	335
 郎溪县	láng;de xī;dd xiàn;qv	356
 琅琊区	láng;wh yá;we qū;kx	317
 阆中市	láng;mh zhōng;aa shì;wj	446
@@ -4393,7 +4397,7 @@ sort: by_weight
 利州区	lì;hd zhōu;da qū;kx	1
 连城县	lián;zi chéng;tg xiàn;qv	409
 莲池区	lián;ci chí;dy qū;kx	1
-莲都区	lián;ci dōu;ue qū;kx	407
+莲都区	lián;ci dū;ue qū;kx	407
 莲湖区	lián;ci hú;do qū;kx	465
 莲花县	lián;ci huā;cb xiàn;qv	353
 廉江市	lián;gj jiāng;dg shì;wj	430
@@ -4538,9 +4542,9 @@ sort: by_weight
 龙潭区	lóng;ab tán;du qū;kx	422
 龙亭区	lóng;ab tíng;wd qū;kx	294
 龙湾区	lóng;ab wān;dg qū;kx	433
-龙圩区	lóng;ab wéi;ty qū;kx	1
 龙文区	lóng;ab wén;wx qū;kx	398
 陇西县	lǒng;eb xī;aa xiàn;qv	386
+龙圩区	lóng;ab xū;ty qū;kx	1
 龙岩市	lóng;ab yán;sk shì;wj	520
 隆阳区	lóng;eu yáng;eo qū;kx	376
 隆尧县	lóng;eu yáo;ge xiàn;qv	392
@@ -4597,6 +4601,7 @@ sort: by_weight
 滦南县	luán;dl nán;uu xiàn;qv	353
 滦平县	luán;dl píng;au xiàn;qv	434
 滦州市	luán;dl zhōu;da shì;wj	1
+略阳县	lue;tk yáng;eo xiàn;qv	354
 仑背乡	lún;rb bèi;bo xiāng;vp	1
 轮台县	lún;ib tái;vk xiàn;qv	335
 萝北县	luó;cx běi;ab xiàn;qv	332
@@ -4624,7 +4629,6 @@ sort: by_weight
 吕梁市	lǚ;kk liáng;dl shì;wj	508
 旅顺口	lǚ;fh shùn;ir kǒu;aa	495
 绿园区	lǜ;su yuán;we qū;kx	424
-略阳县	lüè;tk yáng;eo xiàn;qv	354
 马鞍山	mǎ;va ān;cn shān;aa	625
 麻城市	má;gl chéng;tg shì;wj	410
 马村区	mǎ;va cūn;lc qū;kx	374
@@ -4693,11 +4697,11 @@ sort: by_weight
 苗栗市	miáo;ct lì;xl shì;wj	411
 苗栗县	miáo;ct lì;xl xiàn;qv	577
 民丰县	mín;vv fēng;aa xiàn;qv	308
+闵行区	mǐn;mx háng;rd qū;kx	561
 闽侯县	mǐn;mi hòu;rd xiàn;qv	493
 民勤县	mín;vv qín;cl xiàn;qv	352
 闽清县	mǐn;mi qīng;do xiàn;qv	450
 民权县	mín;vv quán;ly xiàn;qv	391
-闵行区	mǐn;mx xíng;rd qū;kx	561
 民雄乡	mín;vv xióng;aa xiāng;vp	1
 民乐县	mín;vv yuè;pd xiàn;qv	377
 明光市	míng;oo guāng;ee shì;wj	371
@@ -4715,7 +4719,7 @@ sort: by_weight
 牡丹区	mǔ;nt dān;pa qū;kx	377
 牡丹乡	mǔ;nt dān;pa xiāng;vp	347
 木兰县	mù;un lán;es xiàn;qv	339
-穆棱市	mù;hp léng;lw shì;wj	323
+穆棱市	mù;hp líng;lw shì;wj	323
 牟平区	mù;vn píng;au qū;kx	404
 牧野区	mù;nw yě;ly qū;kx	253
 那玛夏	nà;ve mǎ;wm xià;aw	1
@@ -4782,12 +4786,12 @@ sort: by_weight
 楠梓区	nán;lu zǐ;lu qū;kx	1
 囊谦县	náng;ah qiān;yj xiàn;qv	376
 讷河市	nè;yn hé;dk shì;wj	310
+内埔乡	nèi;ad bù;tf xiāng;vp	1
 内湖区	nèi;ad hú;do qū;kx	439
 内黄县	nèi;ad huáng;cb xiàn;qv	408
 内江市	nèi;ad jiāng;dg shì;wj	480
 内门区	nèi;ad mén;dv qū;kx	1
 内蒙古	nèi;ad méng;cn gǔ;uk	772
-内埔乡	nèi;ad pǔ;tf xiāng;vp	1
 内丘县	nèi;ad qiū;pa xiàn;qv	374
 内乡县	nèi;ad xiāng;vp xiàn;qv	457
 嫩江市	nèn;nw jiāng;dg shì;wj	1
@@ -4802,7 +4806,7 @@ sort: by_weight
 宁波市	níng;gd bō;dy shì;wj	638
 宁城县	níng;gd chéng;tg xiàn;qv	392
 宁德市	níng;gd dé;rx shì;wj	515
-宁都县	níng;gd dōu;ue xiàn;qv	409
+宁都县	níng;gd dū;ue xiàn;qv	409
 宁国市	níng;gd guó;wy shì;wj	399
 宁海县	níng;gd hǎi;dm xiàn;qv	467
 宁河区	níng;gd hé;dk qū;kx	1
@@ -4840,11 +4844,12 @@ sort: by_weight
 彭阳县	péng;up yáng;eo xiàn;qv	357
 彭泽县	péng;up zé;da xiàn;qv	401
 彭州市	péng;up zhōu;da shì;wj	435
-郫都区	pí;be dōu;ue qū;kx	1
+郫都区	pí;be dū;ue qū;kx	1
 皮山县	pí;vy shān;aa xiàn;qv	363
 埤头乡	pí;tu tóu;dd xiāng;vp	1
 邳州市	pī;be zhōu;da shì;wj	442
 偏关县	piān;rc guān;et xiàn;qv	322
+朴子市	piáo;lb zǐ;va shì;wj	1
 平安区	píng;au ān;gn qū;kx	1
 平坝区	píng;au bà;tr qū;kx	1
 平昌县	píng;au chāng;oo xiàn;qv	452
@@ -4907,15 +4912,11 @@ sort: by_weight
 浦口区	pǔ;df kǒu;aa qū;kx	480
 普兰店	pǔ;eo lán;es diàn;gk	483
 普兰县	pǔ;eo lán;es xiàn;qv	336
-埔里镇	pǔ;tf lǐ;aa zhèn;jb	422
 普宁市	pǔ;eo níng;gd shì;wj	451
 莆田市	pú;cf tián;wu shì;wj	527
 普陀区	pǔ;eo tuó;eb qū;kx	548
-埔心乡	pǔ;tf xīn;dd xiāng;vp	1
-埔盐乡	pǔ;tf yán;tm xiāng;vp	1
 濮阳市	pú;dn yáng;eo shì;wj	499
 濮阳县	pú;dn yáng;eo xiàn;qv	453
-朴子市	pǔ;lb zǐ;va shì;wj	1
 淇滨区	qí;db bīn;db qū;kx	364
 蕲春县	qí;cj chūn;ao xiàn;qv	405
 启东市	qǐ;hk dōng;ad shì;wj	388
@@ -4962,15 +4963,17 @@ sort: by_weight
 硚口区	qiáo;uq kǒu;aa qū;kx	431
 桥头区	qiáo;lq tóu;dd qū;kx	1
 桥西区	qiáo;lq xī;aa qū;kx	480
+茄萣区	qié;ck dìng;cr qū;kx	1
 且末县	qiě;aa mò;an xiàn;qv	337
 茄子河	qié;ck zi;va hé;dk	1
 秦安县	qín;ah ān;gn xiàn;qv	388
 钦北区	qīn;jr běi;ab qū;kx	316
-秦都区	qín;ah dōu;ue qū;kx	356
+秦都区	qín;ah dū;ue qū;kx	356
 秦淮区	qín;ah huái;da qū;kx	495
 秦皇岛	qín;ah huáng;bw dǎo;ps	675
 钦南区	qīn;jr nán;uu qū;kx	275
 沁水县	qìn;dx shuǐ;vn xiàn;qv	391
+覃塘区	qín;xu táng;tk qū;kx	280
 沁阳市	qìn;dx yáng;eo shì;wj	437
 沁源县	qìn;dx yuán;dx xiàn;qv	355
 秦州区	qín;ah zhōu;da qū;kx	390
@@ -5018,7 +5021,6 @@ sort: by_weight
 琼海市	qióng;wx hǎi;dm shì;wj	465
 琼结县	qióng;wx jié;sk xiàn;qv	234
 邛崃市	qióng;ge lái;sl shì;wj	430
-芎林乡	qiōng;cg lín;ll xiāng;vp	1
 琼山区	qióng;wx shān;aa qū;kx	429
 丘北县	qiū;pa běi;ab xiàn;qv	365
 曲阜市	qū;aa fù;pu shì;wj	422
@@ -5144,7 +5146,7 @@ sort: by_weight
 上城区	shàng;aa chéng;tg qū;kx	1
 商城县	shāng;wk chéng;tg xiàn;qv	389
 上党区	shàng;aa dǎng;ee qū;kx	1
-商都县	shāng;wk dōu;ue xiàn;qv	324
+商都县	shāng;wk dū;ue xiàn;qv	324
 上高县	shàng;aa gāo;wk xiàn;qv	342
 上海市	shàng;aa hǎi;dm shì;wj	781
 上杭县	shàng;aa háng;lj xiàn;qv	443
@@ -5165,6 +5167,7 @@ sort: by_weight
 商州区	shāng;wk zhōu;da qū;kx	408
 邵东市	shào;de dōng;ad shì;wj	1
 韶关市	sháo;lk guān;et shì;wj	515
+召陵区	shào;dk líng;ew qū;kx	1
 韶山市	sháo;lk shān;aa shì;wj	357
 邵武市	shào;de wǔ;vg shì;wj	386
 绍兴市	shào;sk xīng;eb shì;wj	557
@@ -5175,7 +5178,6 @@ sort: by_weight
 社头乡	shè;pt tóu;dd xiāng;vp	1
 射阳县	shè;uc yáng;eo xiàn;qv	381
 神池县	shén;pu chí;dy xiàn;qv	348
-什邡市	shén;ru fāng;fe shì;wj	400
 神冈区	shén;pu gāng;ax qū;kx	1
 伸港乡	shēn;ru gǎng;dv xiāng;vp	1
 沈河区	shěn;dv hé;dk qū;kx	533
@@ -5196,6 +5198,7 @@ sort: by_weight
 石城县	shí;ak chéng;tg xiàn;qv	389
 施甸县	shī;fy diān;pt xiàn;qv	350
 石碇区	shí;ak dìng;ur qū;kx	1
+什邡市	shí;ru fāng;fe shì;wj	400
 石峰区	shí;ak fēng;sf qū;kx	324
 石冈区	shí;ak gāng;ax qū;kx	1
 石鼓区	shí;ak gǔ;uy qū;kx	332
@@ -5305,7 +5308,7 @@ sort: by_weight
 绥芬河	suí;sn fēn;cd hé;dk	488
 绥化市	suí;sn huà;rb shì;wj	442
 绥江县	suí;sn jiāng;dg xiàn;qv	264
-绥棱县	suí;sn léng;lw xiàn;qv	280
+绥棱县	suí;sn líng;lw xiàn;qv	280
 遂宁市	suì;zd níng;gd shì;wj	490
 睢宁县	suī;ma níng;gd xiàn;qv	419
 绥宁县	suí;sn níng;gd xiàn;qv	362
@@ -5356,8 +5359,8 @@ sort: by_weight
 台州市	tāi;vk zhōu;da shì;wj	541
 泰州市	tài;au zhōu;da shì;wj	520
 太子河	tài;dd zǐ;va hé;dk	350
+宕昌县	tan;gk chāng;oo xiàn;qv	356
 郯城县	tán;he chéng;tg xiàn;qv	438
-覃塘区	tán;xu táng;tk qū;kx	280
 潭子区	tán;du zǐ;va qū;kx	1
 唐河县	táng;gk hé;dk xiàn;qv	455
 唐山市	táng;gk shān;aa shì;wj	582
@@ -5462,7 +5465,7 @@ sort: by_weight
 托克逊	tuō;fq kè;ue xùn;zx	421
 托里县	tuō;fq lǐ;aa xiàn;qv	305
 瓦房店	wǎ;ad fáng;hf diàn;gk	506
-外埔区	wài;xb pǔ;tf qū;kx	1
+外埔区	wài;xb bù;tf qū;kx	1
 万安县	wàn;ap ān;gn xiàn;qv	369
 万柏林	wàn;ap bǎi;lb lín;ll	1
 宛城区	wǎn;gv chéng;tg qū;kx	400
@@ -5484,7 +5487,7 @@ sort: by_weight
 望安乡	wàng;ww ān;gn xiāng;vp	1
 旺苍县	wàng;ow cāng;cv xiàn;qv	395
 望城区	wàng;ww chéng;tg qū;kx	1
-望都县	wàng;ww dōu;ue xiàn;qv	375
+望都县	wàng;ww dū;ue xiàn;qv	375
 望花区	wàng;ww huā;cb qū;kx	302
 望江县	wàng;ww jiāng;dg xiàn;qv	365
 望奎县	wàng;ww kuí;dt xiàn;qv	405
@@ -5496,7 +5499,7 @@ sort: by_weight
 渭城区	wèi;do chéng;tg qū;kx	372
 潍城区	wéi;dw chéng;tg qū;kx	329
 卫东区	wèi;ea dōng;ad qū;kx	283
-魏都区	wèi;hv dōu;ue qū;kx	347
+魏都区	wèi;hv dū;ue qū;kx	347
 潍坊市	wéi;dw fāng;tf shì;wj	550
 威海市	wēi;ng hǎi;dm shì;wj	523
 卫辉市	wèi;ea huī;ei shì;wj	416
@@ -5527,7 +5530,6 @@ sort: by_weight
 瓮安县	wèng;bw ān;gn xiàn;qv	363
 翁源县	wēng;bx yuán;dx xiàn;qv	442
 卧龙区	wò;kb lóng;ab qū;kx	423
-涡阳县	wō;dn yáng;eo xiàn;qv	412
 武安市	wǔ;vg ān;gn shì;wj	432
 吴堡县	wú;kt bǔ;rt xiàn;qv	340
 武昌区	wǔ;vg chāng;oo qū;kx	513
@@ -5541,7 +5543,7 @@ sort: by_weight
 乌当区	wū;pa dāng;ea qū;kx	430
 无棣县	wú;av dì;ll xiàn;qv	365
 武定县	wǔ;vg dìng;gr xiàn;qv	353
-武都区	wǔ;vg dōu;ue qū;kx	1
+武都区	wǔ;vg dū;ue qū;kx	1
 乌尔禾	wū;pa ěr;ex hé;qn	393
 雾峰区	wù;yl fēng;sf qū;kx	1
 五峰乡	wǔ;aa fēng;sf xiāng;vp	1
@@ -5582,8 +5584,8 @@ sort: by_weight
 巫山县	wū;aa shān;aa xiàn;qv	468
 武山县	wǔ;vg shān;aa xiàn;qv	378
 乌审旗	wū;pa shěn;gu qí;fb	389
-乌什县	wū;pa shén;ru xiàn;qv	376
 武胜县	wǔ;vg shèng;ou xiàn;qv	413
+乌什县	wū;pa shí;ru xiàn;qv	376
 乌苏市	wū;pa sū;cb shì;wj	393
 五台县	wǔ;aa tái;vk xiàn;qv	419
 雾台乡	wù;yl tái;vk xiāng;vp	1
@@ -5681,7 +5683,7 @@ sort: by_weight
 襄城县	xiāng;wh chéng;tg xiàn;qv	407
 乡城县	xiāng;vp chéng;tg xiàn;qv	335
 湘东区	xiāng;dm dōng;ad qū;kx	320
-襄都区	xiāng;wh dōu;ue qū;kx	1
+襄都区	xiāng;wh dū;ue qū;kx	1
 香坊区	xiāng;ho fāng;tf qū;kx	479
 襄汾县	xiāng;wh fén;dd xiàn;qv	411
 祥符区	xiáng;py fú;vc qū;kx	1
@@ -5719,14 +5721,15 @@ sort: by_weight
 新安县	xīn;lj ān;gn xiàn;qv	473
 新北区	xīn;lj běi;ab qū;kx	440
 新北市	xīn;lj běi;ab shì;wj	1
+新埔镇	xīn;lj bù;tf zhèn;jb	1
 新蔡县	xīn;lj cài;cx xiàn;qv	366
 新昌县	xīn;lj chāng;oo xiàn;qv	427
 新城区	xīn;lj chéng;tg qū;kx	586
 忻城县	xīn;xj chéng;tg xiàn;qv	361
 新城乡	xīn;lj chéng;tg xiāng;vp	1
 新店区	xīn;lj diàn;gk qū;kx	1
-新都区	xīn;lj dōu;ue qū;kx	447
-信都区	xìn;rk dōu;ue qū;kx	1
+新都区	xīn;lj dū;ue qū;kx	447
+信都区	xìn;rk dū;ue qū;kx	1
 信丰县	xìn;rk fēng;aa xiàn;qv	379
 新丰县	xīn;lj fēng;aa xiàn;qv	367
 新丰乡	xīn;lj fēng;aa xiāng;vp	1
@@ -5751,7 +5754,6 @@ sort: by_weight
 新民市	xīn;lj mín;vv shì;wj	406
 新宁县	xīn;lj níng;gd xiàn;qv	404
 新埤乡	xīn;lj pí;tu xiāng;vp	1
-新埔镇	xīn;lj pǔ;tf zhèn;jb	1
 新邱区	xīn;lj qiū;qe qū;kx	184
 新荣区	xīn;lj róng;cl qū;kx	307
 新邵县	xīn;lj shào;de xiàn;qv	384
@@ -5808,6 +5810,7 @@ sort: by_weight
 荥阳市	xíng;cu yáng;eo shì;wj	449
 兴业县	xīng;eb yè;aa xiàn;qv	329
 兴义市	xīng;eb yì;dx shì;wj	447
+芎林乡	xiōng;cg lín;ll xiāng;vp	1
 秀峰区	xiù;hn fēng;sf qū;kx	304
 秀林乡	xiù;hn lín;ll xiāng;vp	1
 休宁县	xiū;rl níng;gd xiàn;qv	437
@@ -5848,6 +5851,7 @@ sort: by_weight
 崖州区	yá;st zhōu;da qū;kx	1
 延安市	yán;zv ān;gn shì;wj	498
 盐边县	yán;tm biān;zl xiàn;qv	380
+盐埔乡	yán;tm bù;tf xiāng;vp	1
 延长县	yán;zv cháng;pn xiàn;qv	330
 燕巢区	yàn;ce cháo;vg qū;kx	1
 盐埕区	yán;tm chéng;tw qū;kx	387
@@ -5867,7 +5871,6 @@ sort: by_weight
 炎陵县	yán;hh líng;ew xiàn;qv	376
 延平区	yán;zv píng;au qū;kx	414
 延平乡	yán;zv píng;au xiāng;vp	1
-盐埔乡	yán;tm pǔ;tf xiāng;vp	1
 延庆区	yán;zv qìng;gd qū;kx	1
 雁山区	yàn;ia shān;aa qū;kx	277
 铅山县	yán;jk shān;aa xiàn;qv	389
@@ -5904,7 +5907,7 @@ sort: by_weight
 扬中市	yáng;fp zhōng;aa shì;wj	332
 扬州市	yáng;fp zhōu;da shì;wj	558
 姚安县	yáo;nv ān;gn xiàn;qv	368
-尧都区	yáo;ge dōu;ue qū;kx	396
+尧都区	yáo;ge dū;ue qū;kx	396
 瑶海区	yáo;wf hǎi;dm qū;kx	496
 耀州区	yào;ea zhōu;da qū;kx	426
 叶城县	yè;ku chéng;tg xiàn;qv	384
@@ -5954,7 +5957,7 @@ sort: by_weight
 伊州区	yī;ry zhōu;da qū;kx	1
 义竹乡	yì;dx zhú;pd xiāng;vp	1
 银川市	yín;jh chuān;pa shì;wj	559
-殷都区	yīn;py dōu;ue qū;kx	272
+殷都区	yīn;py dū;ue qū;kx	272
 银海区	yín;jh hǎi;dm qū;kx	345
 印台区	yìn;pe tái;vk qū;kx	362
 鄞州区	yín;ce zhōu;da qū;kx	512
@@ -6024,7 +6027,7 @@ sort: by_weight
 虞城县	yú;at chéng;tg xiàn;qv	407
 鱼池乡	yú;ea chí;dy xiāng;vp	1
 榆次区	yú;ld cì;dr qū;kx	397
-于都县	yú;av dōu;ue xiàn;qv	412
+于都县	yú;av dū;ue xiàn;qv	412
 鱼峰区	yú;ea fēng;sf qū;kx	330
 余干县	yú;rx gàn;au xiàn;qv	425
 余杭区	yú;rx háng;lj qū;kx	527
@@ -6102,7 +6105,6 @@ sort: by_weight
 云冈区	yún;ev gāng;ax qū;kx	1
 运河区	yùn;zv hé;dk qū;kx	371
 云和县	yún;ev hé;hk xiàn;qv	361
-筠连县	yún;vd lián;zi xiàn;qv	384
 云林县	yún;ev lín;ll xiàn;qv	593
 云龙区	yún;ev lóng;ab qū;kx	357
 云龙县	yún;ev lóng;ab xiàn;qv	368
@@ -6115,7 +6117,7 @@ sort: by_weight
 郧阳区	yún;ke yáng;eo qū;kx	1
 云阳县	yún;ev yáng;eo xiàn;qv	435
 云州区	yún;ev zhōu;da qū;kx	1
-杂多县	zá;jx duō;xx xiàn;qv	472
+杂多县	zá;jx duǒ;xx xiàn;qv	472
 赞皇县	zàn;xr huáng;bw xiàn;qv	401
 枣强县	zǎo;ad qiáng;gi xiàn;qv	363
 造桥乡	zào;zk qiáo;lq xiāng;vp	1
@@ -6141,7 +6143,7 @@ sort: by_weight
 彰化县	zhāng;lp huà;rb xiàn;qv	606
 张家川	zhāng;gi jiā;gn chuān;pa	400
 张家港	zhāng;gi jiā;gn gǎng;dv	583
-张家界	zhāng;gi jiā;gn jiè;tj	696
+张家界	zhāng;gi jiā;gn jie;tj	696
 张家口	zhāng;gi jiā;gn kǒu;aa	662
 漳平市	zhāng;du píng;au shì;wj	392
 漳浦县	zhāng;du pǔ;df xiàn;qv	468
@@ -6156,14 +6158,12 @@ sort: by_weight
 肇东市	zhào;ha dōng;ad shì;wj	366
 昭化区	zhāo;ok huà;rb qū;kx	1
 昭觉县	zhāo;ok jué;ej xiàn;qv	370
-召陵区	zhào;dk líng;ew qū;kx	1
 昭平县	zhāo;ok píng;au xiàn;qv	353
 肇庆市	zhào;ha qìng;gd shì;wj	514
 昭苏县	zhāo;ok sū;cb xiàn;qv	353
 昭通市	zhāo;ok tōng;zy shì;wj	495
 昭阳区	zhāo;ok yáng;eo qū;kx	364
 朝阳市	zhāo;uo yáng;eo shì;wj	466
-朝阳县	zhāo;uo yáng;eo xiàn;qv	383
 招远市	zhāo;fk yuǎn;ze shì;wj	378
 肇源县	zhào;ha yuán;dx xiàn;qv	346
 肇州县	zhào;ha zhōu;da xiàn;qv	319
@@ -6199,6 +6199,7 @@ sort: by_weight
 枝江市	zhī;ly jiāng;dg shì;wj	365
 织金县	zhī;sb jīn;ra xiàn;qv	402
 仲巴县	zhòng;rv bā;vv xiàn;qv	303
+中埔乡	zhōng;aa bù;tf xiāng;vp	1
 中方县	zhōng;aa fāng;wp xiàn;qv	325
 中和区	zhōng;aa hé;hk qū;kx	1
 中江县	zhōng;aa jiāng;dg xiàn;qv	395
@@ -6207,7 +6208,6 @@ sort: by_weight
 钟楼区	zhōng;jv lóu;ln qū;kx	358
 中牟县	zhōng;aa mù;vn xiàn;qv	445
 中宁县	zhōng;aa níng;gd xiàn;qv	395
-中埔乡	zhōng;aa pǔ;tf xiāng;vp	1
 钟山区	zhōng;jv shān;aa qū;kx	373
 中山区	zhōng;aa shān;aa qū;kx	1
 中山市	zhōng;aa shān;aa shì;wj	598
@@ -6288,7 +6288,7 @@ sort: by_weight
 阿勒泰市	ā;ek lè;cl tài;au shì;wj	399
 阿里地区	ā;ek lǐ;aa dì;ty qū;kx	451
 阿里山乡	ā;ek lǐ;aa shān;aa xiāng;vp	1
-阿图什市	ā;ek tú;wd shén;ru shì;wj	344
+阿图什市	ā;ek tú;wd shí;ru shì;wj	344
 阿瓦提县	ā;ek wǎ;ad tí;fr xiàn;qv	347
 昂昂溪区	áng;oe áng;oe xī;dd qū;kx	253
 八公山区	bā;pn gōng;bv shān;aa qū;kx	223
@@ -6349,7 +6349,7 @@ sort: by_weight
 黑龙江省	hēi;ae lóng;ab jiāng;dg shěng;um	680
 红谷滩区	hóng;sg gǔ;bk tān;dn qū;kx	299
 红花岗区	hóng;sg huā;cb gǎng;sx qū;kx	395
-红寺堡区	hóng;sg sì;tc bǎo;rt qū;kx	309
+红寺堡区	hóng;sg sì;tc bǔ;rt qū;kx	309
 呼和浩特	hū;kh hé;hk hào;dk tè;nc	645
 葫芦岛市	hú;co lú;ch dǎo;ps shì;wj	455
 呼伦贝尔	hū;kh lún;rb bèi;ar ěr;ex	580
@@ -6372,14 +6372,14 @@ sort: by_weight
 九寨沟县	jiǔ;pv zhài;gx gōu;dv xiàn;qv	469
 喀喇沁旗	kā;kk lǎ;kd qìn;dx qí;fb	368
 喀什地区	kā;kk shí;ru dì;ty qū;kx	473
-康巴什区	kāng;gl bā;vv shén;ru qū;kx	220
+康巴什区	kāng;gl bā;vv shí;ru qū;kx	220
 科尔沁区	kē;hu ěr;ex qìn;dx qū;kx	367
-可克达拉	kě;av kè;ue dá;zd lā;fl	382
+可克达拉	kě;av kě;ue dá;zd lā;fl	382
 克拉玛依	kè;ue lā;fl mǎ;wm yī;rh	531
 克孜勒苏	kè;ue zī;zw lè;cl sū;cb	305
 库尔勒市	kù;gi ěr;ex lè;cl shì;wj	433
-昆都仑区	kūn;ob dōu;ue lún;rb qū;kx	354
-浪卡子县	làng;dh qiǎ;ub zi;va xiàn;qv	310
+昆都仑区	kūn;ob dū;ue lún;rb qū;kx	354
+浪卡子县	làng;dh ka;ub zi;va xiàn;qv	310
 老河口市	lǎo;ub hé;dk kǒu;aa shì;wj	382
 类乌齐县	lèi;md wū;pa qí;wa xiàn;qv	246
 冷水江市	lěng;dv shuǐ;vn jiāng;dg shì;wj	378
@@ -6498,7 +6498,7 @@ sort: by_weight
 扎兰屯市	zhā;fv lán;es tún;av shì;wj	383
 扎鲁特旗	zhā;fv lǔ;eo tè;nc qí;fb	378
 张家港市	zhāng;gi jiā;gn gǎng;dv shì;wj	482
-张家界市	zhāng;gi jiā;gn jiè;tj shì;wj	521
+张家界市	zhāng;gi jiā;gn jie;tj shì;wj	521
 张家口市	zhāng;gi jiā;gn kǒu;aa shì;wj	541
 正镶白旗	zhèng;av xiāng;jh bái;po qí;fb	366
 驻马店市	zhù;mv mǎ;va diàn;gk shì;wj	528
@@ -6529,7 +6529,7 @@ sort: by_weight
 吉木萨尔县	jí;uk mù;un sà;ci ěr;ex xiàn;qv	383
 加格达奇区	jiā;lk gé;lk dá;zd qí;dk qū;kx	1
 喀喇沁左翼	kā;kk lǎ;kd qìn;dx zuǒ;ag yì;xb	232
-可克达拉市	kě;av kè;ue dá;zd lā;fl shì;wj	1
+可克达拉市	kě;av kě;ue dá;zd lā;fl shì;wj	1
 克拉玛依区	kè;ue lā;fl mǎ;wm yī;rh qū;kx	1
 克拉玛依市	kè;ue lā;fl mǎ;wm yī;rh shì;wj	443
 克什克腾旗	kè;ue shí;ru kè;ue téng;om qí;fb	426
@@ -6541,7 +6541,7 @@ sort: by_weight
 顺河回族区	shùn;ir hé;dk huí;wk zú;fd qū;kx	1
 苏尼特右旗	sū;cb ní;ub tè;nc yòu;ak qí;fb	398
 苏尼特左旗	sū;cb ní;ub tè;nc zuǒ;ag qí;fb	336
-塔什库尔干	tǎ;tk shén;ru kù;gi ěr;ex gàn;au	423
+塔什库尔干	tǎ;tk shí;ru kù;gi ěr;ex gàn;au	423
 土默特右旗	tǔ;ua mò;hq tè;nc yòu;ak qí;fb	343
 土默特左旗	tǔ;ua mò;hq tè;nc zuǒ;ag qí;fb	348
 五大连池市	wǔ;aa dà;an lián;zi chí;dy shì;wj	333
@@ -6575,7 +6575,7 @@ sort: by_weight
 西乌珠穆沁旗	xī;aa wū;pa zhū;wv mù;hp qìn;dx qí;fb	343
 新巴尔虎右旗	xīn;lj bā;vv ěr;ex hǔ;aj yòu;ak qí;fb	324
 新巴尔虎左旗	xīn;lj bā;vv ěr;ex hǔ;aj zuǒ;ag qí;fb	331
-鹰手营子矿区	yīng;gn shǒu;pv yíng;ck zǐ;va kuàng;ug qū;kx	1
+鹰手营子矿区	yīng;gn shǒu;pv yīng;ck zǐ;va kuàng;ug qū;kx	1
 澳门特别行政区	ào;dd mén;dv tè;nc bié;kd xíng;rd zhèng;vw qū;kx	559
 巴马瑶族自治县	bā;vv mǎ;va yáo;wf zú;fd zì;pm zhì;dk xiàn;qv	1
 白沙黎族自治县	bái;po shā;du lí;hu zú;fd zì;pm zhì;dk xiàn;qv	292
@@ -6593,7 +6593,7 @@ sort: by_weight
 大化瑶族自治县	dà;an huà;rb yáo;wf zú;fd zì;pm zhì;dk xiàn;qv	1
 大理白族自治州	dà;an lǐ;wl bái;po zú;fd zì;pm zhì;dk zhōu;da	439
 迪庆藏族自治州	dí;zy qìng;gd zàng;cg zú;fd zì;pm zhì;dk zhōu;da	367
-都安瑶族自治县	dōu;ue ān;gn yáo;wf zú;fd zì;pm zhì;dk xiàn;qv	330
+都安瑶族自治县	dū;ue ān;gn yáo;wf zú;fd zì;pm zhì;dk xiàn;qv	330
 峨边彝族自治县	é;sg biān;zl yí;va zú;fd zì;pm zhì;dk xiàn;qv	1
 峨山彝族自治县	é;sg shān;aa yí;va zú;fd zì;pm zhì;dk xiàn;qv	1
 鄂温克族自治旗	è;ke wēn;dm kè;ue zú;fd zì;pm zhì;dk qí;fb	310
@@ -6619,7 +6619,7 @@ sort: by_weight
 科尔沁右翼中旗	kē;hu ěr;ex qìn;dx yòu;ak yì;xb zhōng;aa qí;fb	329
 科尔沁左翼后旗	kē;hu ěr;ex qìn;dx zuǒ;ag yì;xb hòu;pk qí;fb	328
 科尔沁左翼中旗	kē;hu ěr;ex qìn;dx zuǒ;ag yì;xb zhōng;aa qí;fb	372
-可克达拉市昆玉	kě;av kè;ue dá;zd lā;fl shì;wj kūn;ob yù;wd	1
+可克达拉市昆玉	kě;av kě;ue dá;zd lā;fl shì;wj kūn;ob yù;wd	1
 宽城满族自治县	kuān;gj chéng;tg mǎn;dl zú;fd zì;pm zhì;dk xiàn;qv	1
 宽甸满族自治县	kuān;gj diān;pt mǎn;dl zú;fd zì;pm zhì;dk xiàn;qv	323
 乐东黎族自治县	lè;pd dōng;ad lí;hu zú;fd zì;pm zhì;dk xiàn;qv	289
@@ -6736,7 +6736,7 @@ sort: by_weight
 莫力达瓦达斡尔族自治旗	mò;cd lì;vp dá;zd wǎ;ad dá;zd wò;uu ěr;ex zú;fd zì;pm zhì;dk qí;fb	292
 前郭尔罗斯蒙古族自治县	qián;ed guō;we ěr;ex luó;sx sī;qj měng;cn gǔ;uk zú;fd zì;pm zhì;dk xiàn;qv	320
 黔西南布依族苗族自治州	qián;hj xī;aa nán;uu bù;aj yī;rh zú;fd miáo;ct zú;fd zì;pm zhì;dk zhōu;da	368
-塔什库尔干塔吉克自治县	tǎ;tk shén;ru kù;gi ěr;ex gàn;au tǎ;tk jí;uk kè;ue zì;pm zhì;dk xiàn;qv	367
+塔什库尔干塔吉克自治县	tǎ;tk shí;ru kù;gi ěr;ex gàn;au tǎ;tk jí;uk kè;ue zì;pm zhì;dk xiàn;qv	367
 威宁彝族回族苗族自治县	wēi;ng níng;gd yí;va zú;fd huí;wk zú;fd miáo;ct zú;fd zì;pm zhì;dk xiàn;qv	306
 孟连傣族拉祜族佤族自治县	mèng;zm lián;zi dǎi;ru zú;fd lā;fl hù;pk zú;fd wǎ;rw zú;fd zì;pm zhì;dk xiàn;qv	234
 元江哈尼族彝族傣族自治县	yuán;ee jiāng;dg hā;kk ní;ub zú;fd yí;va zú;fd dǎi;ru zú;fd zì;pm zhì;dk xiàn;qv	276

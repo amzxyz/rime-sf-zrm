@@ -757,6 +757,7 @@ sort: by_weight
 李稷	lǐ;lz jì;hw	272
 李鉴	lǐ;lz jiàn;aj	312
 李绛	lǐ;lz jiàng;sa	356
+李峤	lǐ;lz jiào;sq	344
 李诫	lǐ;lz jiè;yg	323
 李节	lǐ;lz jié;ce	273
 李婕	lǐ;lz jié;nr	268
@@ -812,7 +813,6 @@ sort: by_weight
 李谦	lǐ;lz qiān;yj	385
 李前	lǐ;lz qián;ed	353
 李樯	lǐ;lz qiáng;lk	333
-李峤	lǐ;lz qiáo;sq	344
 李晴	lǐ;lz qíng;oo	280
 李球	lǐ;lz qiú;wq	251
 李然	lǐ;lz rán;pe	388
@@ -2358,7 +2358,6 @@ sort: by_weight
 杨梓	yáng;lp zǐ;lu	365
 杨字	yáng;lp zì;gz	340
 杨祖	yáng;lp zǔ;pq	391
-尤侗	yóu;av dong;rk	264
 尤菲	yóu;av fēi;cf	390
 尤夫	yóu;av fū;an	366
 尤根	yóu;av gēn;lh	331
@@ -2372,6 +2371,7 @@ sort: by_weight
 尤瑞	yóu;av ruì;we	344
 尤萨	yóu;av sà;ci	373
 尤塔	yóu;av tǎ;tk	338
+尤侗	yóu;av tóng;rk	264
 尤雅	yóu;av yǎ;ya	301
 尤勇	yóu;av yǒng;vl	355
 尤中	yóu;av zhōng;aa	329
@@ -2403,6 +2403,7 @@ sort: by_weight
 张淳	zhāng;gi chún;dz	311
 张聪	zhāng;gi cōng;ex	388
 张璁	zhāng;gi cōng;wx	385
+张焘	zhāng;gi dào;ue	284
 张登	zhāng;gi dēng;vd	396
 张帝	zhāng;gi dì;wj	313
 张殿	zhāng;gi diàn;uy	360
@@ -2541,7 +2542,6 @@ sort: by_weight
 张唐	zhāng;gi táng;gk	369
 张堂	zhāng;gi táng;et	255
 张韬	zhāng;gi tāo;wj	359
-张焘	zhāng;gi tāo;ue	284
 张特	zhāng;gi tè;nc	308
 张悌	zhāng;gi tì;xd	324
 张添	zhāng;gi tiān;dd	370
@@ -10051,7 +10051,7 @@ sort: by_weight
 李灿元	lǐ;lz càn;hs yuán;ee	1
 李沧的	lǐ;lz cāng;dv de;bu	215
 李沧海	lǐ;lz cāng;dv hǎi;dm	204
-李曾伯	lǐ;lz ceng;eo bó;rb	208
+李曾伯	lǐ;lz céng;eo bó;rb	208
 李察艾	lǐ;lz chá;gx ài;cx	257
 李察臣	lǐ;lz chá;gx chén;ka	224
 李察戴	lǐ;lz chá;gx dài;bg	31
@@ -12057,7 +12057,6 @@ sort: by_weight
 李绮虹	lǐ;lz qǐ;sk hóng;ig	257
 李绮华	lǐ;lz qǐ;sk huá;ru	231
 李启杰	lǐ;lz qǐ;hk jié;le	181
-李栖筠	lǐ;lz qī;lx jūn;vd	191
 李奇霖	lǐ;lz qí;dk lín;yl	326
 李麒麟	lǐ;lz qí;gb lín;ga	277
 李奇茂	lǐ;lz qí;dk mào;cg	291
@@ -12067,6 +12066,7 @@ sort: by_weight
 李启玮	lǐ;lz qǐ;hk wěi;ww	308
 李七喜	lǐ;lz qī;av xǐ;uk	271
 李启源	lǐ;lz qǐ;hk yuán;dx	163
+李栖筠	lǐ;lz qī;lx yún;vd	191
 李栖云	lǐ;lz qī;lx yún;ev	1
 李乾德	lǐ;lz qián;uy dé;rx	336
 李前光	lǐ;lz qián;ed guāng;ee	208
@@ -12877,7 +12877,6 @@ sort: by_weight
 李伟伟	lǐ;lz wěi;rw wěi;rw	188
 李娓娓	lǐ;lz wěi;nm wěi;nm	150
 李伟文	lǐ;lz wěi;rw wén;wx	289
-李沇熹	lǐ;lz wěi;de xī;ue	330
 李维新	lǐ;lz wéi;sa xīn;lj	276
 李伟信	lǐ;lz wěi;rw xìn;rk	229
 李伟新	lǐ;lz wěi;rw xīn;lj	213
@@ -13560,6 +13559,7 @@ sort: by_weight
 李嫣然	lǐ;lz yān;ne rán;pe	268
 李晏榕	lǐ;lz yàn;on róng;lk	234
 李言荣	lǐ;lz yán;wk róng;cl	188
+李沇熹	lǐ;lz yǎn;de xī;ue	330
 李延禧	lǐ;lz yán;zv xǐ;pk	296
 李延霞	lǐ;lz yán;zv xiá;yy	315
 李艳霞	lǐ;lz yàn;fb xiá;yy	150
@@ -25102,9 +25102,9 @@ sort: by_weight
 王友直	wáng;at yǒu;ay zhí;ua	178
 王毓宝	wáng;at yù;mv bǎo;gy	163
 王予波	wáng;at yǔ;vv bō;dy	295
-王禹偁	wáng;at yù;pd chen;rr	307
 王宇辰	wáng;at yǔ;gy chén;ih	219
 王昱辰	wáng;at yù;ol chén;ih	69
+王禹偁	wáng;at yǔ;pd chēng;rr	307
 王玉成	wáng;at yù;wd chéng;vg	289
 王育成	wáng;at yù;wo chéng;vg	236
 王玉春	wáng;at yù;wd chūn;ao	185
@@ -26742,7 +26742,7 @@ sort: by_weight
 吴闿生	wú;kt kǎi;mj shēng;pa	206
 吴凯文	wú;kt kǎi;sj wén;wx	215
 吴楷义	wú;kt kǎi;lb yì;dx	103
-吴康侯	wú;kt kāng;gl hóu;rd	52
+吴康侯	wú;kt kāng;gl hòu;rd	52
 吴康民	wú;kt kāng;gl mín;vv	284
 吴克昌	wú;kt kè;ue chāng;oo	145
 吴克华	wú;kt kè;ue huá;ru	300
@@ -31217,7 +31217,7 @@ sort: by_weight
 张半仙	zhāng;gi bàn;da xiān;rs	181
 张邦基	zhāng;gi bāng;ae jī;qt	167
 张邦彦	zhāng;gi bāng;ae yàn;wp	193
-张宝宝	zhāng;gi bǎo;gy bǎo;gy	222
+张宝宝	zhāng;gi bǎo;gy bao;gy	222
 张宝成	zhāng;gi bǎo;gy chéng;vg	222
 张宝春	zhāng;gi bǎo;gy chūn;ao	217
 张宝儿	zhāng;gi bǎo;gy ér;pv	322
@@ -35883,7 +35883,6 @@ sort: by_weight
 赵良嗣	zhào;tx liáng;dh sì;kk	175
 赵烈侯	zhào;tx liè;de hóu;rd	245
 赵凌波	zhào;tx líng;dw bō;dy	175
-赵令畤	zhào;tx lìng;rv chóu;tc	221
 赵令譮	zhào;tx lìng;rv huà;	103
 赵令衿	zhào;tx lìng;rv jīn;pj	181
 赵玲玲	zhào;tx líng;wv líng;wv	199
@@ -35892,6 +35891,7 @@ sort: by_weight
 赵令穰	zhào;tx lìng;rv ráng;hh	163
 赵令扬	zhào;tx lìng;rv yáng;fp	213
 赵凌云	zhào;tx líng;dw yún;ev	167
+赵令畤	zhào;tx lìng;rv zhì;tc	221
 赵龙豪	zhào;tx lóng;ab háo;wn	222
 赵龙文	zhào;tx lóng;ab wén;wx	167
 赵露思	zhào;tx lù;yk sī;tx	336
@@ -36273,7 +36273,7 @@ sort: by_weight
 赵彦卫	zhào;tx yàn;wp wèi;ea	224
 赵燕燕	zhào;tx yàn;ce yàn;ce	219
 赵彦逾	zhào;tx yàn;wp yú;zd	159
-赵彦昭	zhào;tx yàn;wp zhào;ok	237
+赵彦昭	zhào;tx yàn;wp zhāo;ok	237
 赵阳台	zhào;tx yáng;eo tái;vk	159
 赵耀东	zhào;tx yào;ea dōng;ad	233
 赵毅波	zhào;tx yì;ly bō;dy	315

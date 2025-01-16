@@ -7,6 +7,9 @@ name: compatible
 version: "2024-11-11"
 sort: by_weight
 ...
+线长	xiàn;sg zhǎng;pn	463
+看好	kàn;pm hǎo;nz	706
+看好	kān;pm hǎo;nz	606
 看着	kàn;pm zhe;em	797
 看着	kān;pm zhe;em	697
 好这口	hào;nz zhè;zx kǒu;aa	490
@@ -23,6 +26,8 @@ sort: by_weight
 得是	děi;rc shì;or	412
 还回	huán;zb huí;wk	312
 还回	hái;zb huí;wk	428
+看好他	kān;pm hǎo;nz tā;ry	403
+看好他	kàn;pm hǎo;nz tā;ry	403
 还回去吧	huán;zb huí;wk qù;tv ba;kb	255
 还回去吧	hái;zb huí;wk qù;tv ba;kb	255
 还回去吗	huán;zb huí;wk qù;tv ma;km	247

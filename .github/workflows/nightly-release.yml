@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 14 * * *" # 每天晚上 10 点
 
+concurrency: # 防止并发冲突
+  group: nightly-release
+  cancel-in-progress: true
+
 jobs:
   nightly-release:
     runs-on: ubuntu-22.04
@@ -70,18 +74,19 @@ jobs:
 
               // 删除现有的 Tag
               console.log(`Deleting tag: ${tag}`);
-              try {
-                await github.rest.git.deleteRef({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  ref: `tags/${tag}`
-                });
-              } catch (tagError) {
-                console.log(`Tag not found or already deleted: ${tagError.message}`);
-              }
+              await github.rest.git.deleteRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: `tags/${tag}`
+              });
             } catch (error) {
               console.log(`Error deleting Release or Tag: ${error.message}`);
             }
+
+      # 确保删除后等待旧数据清理完成
+      - name: Wait for cleanup
+        if: env.SKIP != 'true'
+        run: sleep 10
 
       # 创建新的 Release
       - name: Create new Release
@@ -94,4 +99,6 @@ jobs:
           body: |
             - `cn_dicts.zip`：最新的中文词库文件。
           files: dist/cn_dicts.zip
-          make_latest: true  # 强制标记为最新版本
+          draft: false        # 确保不是草稿
+          prerelease: false   # 确保不是预发布版本
+          make_latest: true   # 强制标记为最新版本

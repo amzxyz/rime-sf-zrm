@@ -749,7 +749,7 @@ sort: by_weight
 谁是谁	shéi;ya shì;or shéi;ya	468
 谁是我	shéi;ya shì;or wǒ;pg	273
 谁使用	shéi;ya shǐ;rl yòng;pa	283
-谁是主	shéi;ya shì;or zhǔ;wt	229
+谁是主	shéi;ya shì;or zhǔ;	229
 谁是猪	shéi;ya shì;or zhū;qo	175
 谁收藏	shéi;ya shōu;vw cáng;cg	132
 谁手机	shéi;ya shǒu;pv jī;lj	165
@@ -782,7 +782,7 @@ sort: by_weight
 谁为谁	shéi;ya wéi;dd shéi;ya	284
 谁为我	shéi;ya wèi;dd wǒ;pg	252
 谁维修	shéi;ya wéi;sa xiū;rp	126
-谁为主	shéi;ya wéi;dd zhǔ;wt	234
+谁为主	shéi;ya wéi;dd zhǔ;	234
 谁问的	shéi;ya wèn;mk de;bu	230
 谁污染	shéi;ya wū;dk rǎn;dl	317
 谁侮辱	shéi;ya wǔ;rm rǔ;ic	155
@@ -876,10 +876,10 @@ sort: by_weight
 谁知有	shéi;ya zhī;uk yǒu;ao	155
 谁之责	shéi;ya zhī;dn zé;ar	205
 谁重要	shéi;ya zhòng;pa yào;xn	277
-谁主导	shéi;ya zhǔ;wt dǎo;vc	368
-谁主动	shéi;ya zhǔ;wt dòng;el	303
-谁主管	shéi;ya zhǔ;wt guǎn;vg	368
-谁主张	shéi;ya zhǔ;wt zhāng;gi	387
+谁主导	shéi;ya zhǔ; dǎo;vc	368
+谁主动	shéi;ya zhǔ; dòng;el	303
+谁主管	shéi;ya zhǔ; guǎn;vg	368
+谁主张	shéi;ya zhǔ; zhāng;gi	387
 谁追谁	shéi;ya zhuī;za shéi;ya	302
 谁走了	shéi;ya zǒu;tr le;vv	235
 谁组队	shéi;ya zǔ;sq duì;er	165
@@ -898,7 +898,7 @@ sort: by_weight
 谁最帅	shéi;ya zuì;oy shuài;aj	313
 谁做的	shéi;ya zuò;rw de;bu	410
 谁做饭	shéi;ya zuò;rw fàn;uy	276
-谁做主	shéi;ya zuò;rw zhǔ;wt	373
+谁做主	shéi;ya zuò;rw zhǔ;	373
 说的谁	shuō;ye de;bu shéi;ya	244
 说谁的	shuō;ye shéi;ya de;bu	274
 说谁了	shuō;ye shéi;ya le;vv	201
@@ -1307,7 +1307,7 @@ sort: by_weight
 谁坑你了	shéi;ya kēng;tj nǐ;rx le;vv	35
 谁来接班	shéi;ya lái;an jiē;fn bān;ww	255
 谁来救我	shéi;ya lái;an jiù;qw wǒ;pg	262
-谁来主宰	shéi;ya lái;an zhǔ;wt zǎi;gu	156
+谁来主宰	shéi;ya lái;an zhǔ; zǎi;gu	156
 谁来阻止	shéi;ya lái;an zǔ;eq zhǐ;ua	156
 谁拦得住	shéi;ya lán;fs dé;rc zhù;rv	210
 谁厉害呢	shéi;ya lì;iw hài;gk ne;kb	1
@@ -1374,7 +1374,7 @@ sort: by_weight
 谁是闲人	shéi;ya shì;or xián;ml rén;pn	1
 谁是知心	shéi;ya shì;or zhī;uk xīn;dd	1
 谁是知音	shéi;ya shì;or zhī;uk yīn;lo	1
-谁是主人	shéi;ya shì;or zhǔ;wt rén;pn	249
+谁是主人	shéi;ya shì;or zhǔ; rén;pn	249
 谁受得了	shéi;ya shòu;py dé;rc liǎo;vv	473
 谁谁谁去	shéi;ya shéi;ya shéi;ya qù;tv	230
 谁谁谁谁	shéi;ya shéi;ya shéi;ya shéi;ya	245
@@ -1402,7 +1402,7 @@ sort: by_weight
 谁先动手	shéi;ya xiān;pe dòng;el shǒu;pv	326
 谁先开口	shéi;ya xiān;pe kāi;aa kǒu;aa	293
 谁先谁后	shéi;ya xiān;pe shéi;ya hòu;pk	449
-谁先主动	shéi;ya xiān;pe zhǔ;wt dòng;el	235
+谁先主动	shéi;ya xiān;pe zhǔ; dòng;el	235
 谁想得到	shéi;ya xiǎng;lx dé;rc dào;vd	295
 谁像你啊	shéi;ya xiàng;rx nǐ;rx a;kk	1
 谁像你们	shéi;ya xiàng;rx nǐ;rx men;rm	1
@@ -1480,12 +1480,12 @@ sort: by_weight
 谁知我心	shéi;ya zhī;uk wǒ;pg xīn;dd	195
 谁知云路	shéi;ya zhī;uk yún;ev lù;zk	1
 谁知昨天	shéi;ya zhī;uk zuó;ov tiān;ad	199
-谁主沉浮	shéi;ya zhǔ;wt chén;dj fú;dz	484
-谁主浮沉	shéi;ya zhǔ;wt fú;dz chén;dj	264
-谁主君心	shéi;ya zhǔ;wt jūn;yk xīn;dd	1
-谁主天下	shéi;ya zhǔ;wt tiān;ad xià;ab	77
+谁主沉浮	shéi;ya zhǔ; chén;dj fú;dz	484
+谁主浮沉	shéi;ya zhǔ; fú;dz chén;dj	264
+谁主君心	shéi;ya zhǔ; jūn;yk xīn;dd	1
+谁主天下	shéi;ya zhǔ; tiān;ad xià;ab	77
 谁住院了	shéi;ya zhù;rv yuàn;ee le;vv	1
-谁主中原	shéi;ya zhǔ;wt zhōng;aa yuán;ix	92
+谁主中原	shéi;ya zhǔ; zhōng;aa yuán;ix	92
 谁走谁留	shéi;ya zǒu;tr shéi;ya liú;pt	275
 谁组织的	shéi;ya zǔ;sq zhī;sb de;bu	1
 谁最带种	shéi;ya zuì;oy dài;aj zhǒng;hv	134
@@ -1563,7 +1563,7 @@ sort: by_weight
 指的是谁	zhǐ;fo de;bu shì;or shéi;ya	1
 终日谁来	zhōng;sd rì;wa shéi;ya lái;an	105
 周幽谁诛	zhōu;pk yōu;ss shéi;ya zhū;yv	58
-主人是谁	zhǔ;wt rén;pn shì;or shéi;ya	375
+主人是谁	zhǔ; rén;pn shì;or shéi;ya	375
 赚谁的钱	zhuàn;bj shéi;ya de;bu qián;jg	387
 装给谁看	zhuāng;dh gěi;sk shéi;ya kàn;pm	1
 准不准谁	zhǔn;da bù;ad zhǔn;da shéi;ya	1
@@ -2041,7 +2041,7 @@ sort: by_weight
 花鸟怕灰猫	huā;cb niǎo;pa pà;xb huī;ah māo;qt	1
 黄贺搞木刻	huáng;cb hè;lr gǎo;fk mù;un kè;wd	1
 假梨差不离	jiǎ;ry lí;hl chà;eg bù;ad lí;wd	1
-教练和主力	jiào;uw liàn;sd hé;hk zhǔ;wt lì;vp	1
+教练和主力	jiào;uw liàn;sd hé;hk zhǔ; lì;vp	1
 糠赶不走枪	kāng;ml gǎn;tg bù;ad zǒu;tr qiāng;lv	1
 糠埋住了枪	kāng;ml mái;tl zhù;rv le;vv qiāng;lv	1
 糠要枪上墙	kāng;ml yào;xn qiāng;lv shàng;aa qiáng;tk	1
@@ -2180,7 +2180,7 @@ sort: by_weight
 经常练说十和四	jīng;sg cháng;ej liàn;sd shuō;ye shí;aa hé;hk sì;we	1
 拉拉只会折喇叭	lā;fl lā;fl zhǐ;kb huì;rv zhé;fj lǎ;kd bā;kb	1
 蓝教练是女教练	lán;cm jiào;uw liàn;sd shì;or nǚ;va jiào;uw liàn;sd	1
-蓝南是男篮主力	lán;cm nán;uu shì;or nán;tl lán;vm zhǔ;wt lì;vp	1
+蓝南是男篮主力	lán;cm nán;uu shì;or nán;tl lán;vm zhǔ; lì;vp	1
 老李拉了一车栗	lǎo;ub lǐ;lz lā;fl le;vv yì;aa chē;aa lì;xl	1
 老李拉栗去换梨	lǎo;ub lǐ;lz lā;fl lì;xl qù;tv huàn;fd lí;hl	1
 老李人称李大力	lǎo;ub lǐ;lz rén;pn chēng;hx lǐ;lz dà;an lì;vp	1
@@ -2192,7 +2192,7 @@ sort: by_weight
 龙洞困龙在深洞	lóng;ab dòng;dk kùn;wl lóng;ab zài;at shēn;dl dòng;dk	1
 龙去农田做农工	lóng;ab qù;tv nóng;dh tián;wu zuò;rw nóng;dh gōng;aa	1
 吕教练是男教练	lǚ;kk jiào;uw liàn;sd shì;or nán;tl jiào;uw liàn;sd	1
-吕楠是女篮主力	lǚ;kk nán;lu shì;or nǚ;va lán;vm zhǔ;wt lì;vp	1
+吕楠是女篮主力	lǚ;kk nán;lu shì;or nǚ;va lán;vm zhǔ; lì;vp	1
 妈妈见了笑哈哈	mā;nm ma;nm jiàn;av le;vv xiào;vy hā;kk hā;kk	1
 买了十个小柿子	mǎi;vd le;vv shí;aa gè;ra xiǎo;vd shì;lj zi;va	1
 卖卵卖卵使劲喊	mài;ud luǎn;pd mài;ud luǎn;pd shǐ;rl jìn;vl hǎn;kg	1
@@ -2279,7 +2279,7 @@ sort: by_weight
 撞塌了蒋家的墙	zhuàng;fl tā;tx le;vv jiǎng;cc jiā;gn de;bu qiáng;tk	1
 桌上放块橡皮泥	zhuō;al shàng;aa fàng;fw kuài;tn xiàng;lx pí;vy ní;db	1
 自从来了新愚公	zì;pm cóng;rr lái;an le;vv xīn;lj yú;ax gōng;bv	1
-做了千年万载梦	zuò;rw le;vv qiān;pu nián;pa wàn;ap zǎi;ig mèng;lx	1
+做了千年万载梦	zuò;rw le;vv qiān;pu nián;pa wàn; zǎi;ig mèng;lx	1
 白猫的黑鼻子破了	bái;po māo;qt de;bu hēi;ae bí;za zi;va pò;uy le;vv	1
 白猫山上有座白庙	bái;po māo;qt shān;aa shàng;aa yǒu;ao zuò;gt bái;po miào;gy	1
 白石塔白石白又滑	bái;po shí;ak tǎ;tk bái;po shí;ak bái;po yòu;vn huá;do	1
@@ -2389,7 +2389,7 @@ sort: by_weight
 可怜梁上的两对倒吊鸟	kě;av lián;xv liáng;dl shàng;aa de;bu liǎng;ad duì;yc dào;rd diào;kj niǎo;pa	1
 可怜泥里的两对鸟倒吊	kě;av lián;xv ní;db lǐ;aa de;bu liǎng;ad duì;yc niǎo;pa dào;rd diào;kj	1
 蓝教练在女篮训练吕楠	lán;cm jiào;uw liàn;sd zài;at nǚ;va lán;vm xùn;yi liàn;sd lǚ;kk nán;lu	1
-丽丽和弟弟拿不定主意	lì;ad lì;ad hé;hk dì;ep di;ep ná;ru bú;ad dìng;gr zhǔ;wt yì;lx	1
+丽丽和弟弟拿不定主意	lì;ad lì;ad hé;hk dì;ep di;ep ná;ru bú;ad dìng;gr zhǔ; yì;lx	1
 吕教练在男篮训练蓝南	lǚ;kk jiào;uw liàn;sd zài;at nán;tl lán;vm xùn;yi liàn;sd lán;cm nán;uu	1
 忙递给年十四的石小四	máng;xw dì;zd gěi;sk nián;pa shí;aa sì;we de;bu shí;ak xiǎo;vd sì;we	1
 忙递给年四十的史肖石	máng;xw dì;zd gěi;sk nián;pa sì;we shí;aa de;bu shǐ;an xiào;eo shí;ak	1

@@ -2295,22 +2295,22 @@ sort: by_weight
 屯溪	tún;av xī;dd	518
 托里	tuō;fq lǐ;aa	626
 外埔	wài;xb bù;tf	435
-万安	wàn;ap ān;gn	552
+万安	wàn; ān;gn	552
 宛城	wǎn;gv chéng;tg	488
-万丹	wàn;ap dān;pa	467
-万华	wàn;ap huá;ru	550
-万里	wàn;ap lǐ;aa	737
-万峦	wàn;ap luán;ws	419
-万年	wàn;ap nián;pa	750
-万宁	wàn;ap níng;gd	608
-万全	wàn;ap quán;rw	540
-万荣	wàn;ap róng;cl	509
-万山	wàn;ap shān;aa	547
-万秀	wàn;ap xiù;hn	389
-万源	wàn;ap yuán;dx	485
-万载	wàn;ap zǎi;ig	502
+万丹	wàn; dān;pa	467
+万华	wàn; huá;ru	550
+万里	wàn; lǐ;aa	737
+万峦	wàn; luán;ws	419
+万年	wàn; nián;pa	750
+万宁	wàn; níng;gd	608
+万全	wàn; quán;rw	540
+万荣	wàn; róng;cl	509
+万山	wàn; shān;aa	547
+万秀	wàn; xiù;hn	389
+万源	wàn; yuán;dx	485
+万载	wàn; zǎi;ig	502
 湾沚	wān;dg zhǐ;dv	1
-万州	wàn;ap zhōu;da	606
+万州	wàn; zhōu;da	606
 望安	wàng;ww ān;gn	375
 旺苍	wàng;ow cāng;cv	431
 望城	wàng;ww chéng;tg	503
@@ -3756,7 +3756,7 @@ sort: by_weight
 共青城	gòng;cb qīng;ao chéng;tg	445
 拱墅区	gǒng;fb shù;lt qū;kx	483
 巩义市	gǒng;gf yì;dx shì;wj	433
-公主岭	gōng;bv zhǔ;wt lǐng;sv	475
+公主岭	gōng;bv zhǔ; lǐng;sv	475
 固安县	gù;wk ān;gn xiàn;qv	1
 古城区	gǔ;uk chéng;tg qū;kx	481
 故城县	gù;uw chéng;tg xiàn;qv	411
@@ -5466,24 +5466,24 @@ sort: by_weight
 托里县	tuō;fq lǐ;aa xiàn;qv	305
 瓦房店	wǎ;ad fáng;hf diàn;gk	506
 外埔区	wài;xb bù;tf qū;kx	1
-万安县	wàn;ap ān;gn xiàn;qv	369
-万柏林	wàn;ap bǎi;lb lín;ll	1
+万安县	wàn; ān;gn xiàn;qv	369
+万柏林	wàn; bǎi;lb lín;ll	1
 宛城区	wǎn;gv chéng;tg qū;kx	400
-万丹乡	wàn;ap dān;pa xiāng;vp	1
-万华区	wàn;ap huá;ru qū;kx	451
-万里区	wàn;ap lǐ;aa qū;kx	1
-万峦乡	wàn;ap luán;ws xiāng;vp	1
-万年县	wàn;ap nián;pa xiàn;qv	420
-万宁市	wàn;ap níng;gd shì;wj	499
-万全区	wàn;ap quán;rw qū;kx	1
-万荣县	wàn;ap róng;cl xiàn;qv	398
-万荣乡	wàn;ap róng;cl xiāng;vp	1
-万山区	wàn;ap shān;aa qū;kx	1
-万秀区	wàn;ap xiù;hn qū;kx	283
-万源市	wàn;ap yuán;dx shì;wj	376
-万载县	wàn;ap zǎi;ig xiàn;qv	434
+万丹乡	wàn; dān;pa xiāng;vp	1
+万华区	wàn; huá;ru qū;kx	451
+万里区	wàn; lǐ;aa qū;kx	1
+万峦乡	wàn; luán;ws xiāng;vp	1
+万年县	wàn; nián;pa xiàn;qv	420
+万宁市	wàn; níng;gd shì;wj	499
+万全区	wàn; quán;rw qū;kx	1
+万荣县	wàn; róng;cl xiàn;qv	398
+万荣乡	wàn; róng;cl xiāng;vp	1
+万山区	wàn; shān;aa qū;kx	1
+万秀区	wàn; xiù;hn qū;kx	283
+万源市	wàn; yuán;dx shì;wj	376
+万载县	wàn; zǎi;ig xiàn;qv	434
 湾沚区	wān;dg zhǐ;dv qū;kx	1
-万州区	wàn;ap zhōu;da qū;kx	505
+万州区	wàn; zhōu;da qū;kx	505
 望安乡	wàng;ww ān;gn xiāng;vp	1
 旺苍县	wàng;ow cāng;cv xiàn;qv	395
 望城区	wàng;ww chéng;tg qū;kx	1
@@ -6337,7 +6337,7 @@ sort: by_weight
 工布江达	gōng;aa bù;aj jiāng;dg dá;zd	336
 弓长岭区	gōng;vv cháng;pn lǐng;sv qū;kx	336
 共青城市	gòng;cb qīng;ao chéng;tg shì;wj	341
-公主岭市	gōng;bv zhǔ;wt lǐng;sv shì;wj	424
+公主岭市	gōng;bv zhǔ; lǐng;sv shì;wj	424
 观山湖区	guān;yj shān;aa hú;do qū;kx	466
 哈巴河县	hǎ;kk bā;vv hé;dk xiàn;qv	363
 哈尔滨市	hā;kk ěr;ex bīn;db shì;wj	631
@@ -6463,7 +6463,7 @@ sort: by_weight
 托克托县	tuō;fq kè;ue tuō;fq xiàn;qv	355
 托克逊县	tuō;fq kè;ue xùn;zx xiàn;qv	359
 瓦房店市	wǎ;ad fáng;hf diàn;gk shì;wj	468
-万柏林区	wàn;ap bǎi;lb lín;ll qū;kx	443
+万柏林区	wàn; bǎi;lb lín;ll qū;kx	443
 翁牛特旗	wēng;bx niú;pa tè;nc qí;fb	390
 五大连池	wǔ;aa dà;an lián;zi chí;dy	439
 乌尔禾区	wū;pa ěr;ex hé;qn qū;kx	239
